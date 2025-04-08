@@ -1,0 +1,21 @@
+{
+  "name": "eodashboard-preview-client",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "eodash dev",
+    "build": "eodash build",
+    "preview": "eodash preview",
+    "format": "prettier . --write"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@eodash/eodash": "^5.0.0"
+  },
+  "devDependencies": {
+    "@eox/eslint-config": "^2.0.0"
+  }
+}
