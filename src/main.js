@@ -174,12 +174,14 @@ function assignStacEndpoint() {
   const stacEndpoint = urlParams.get("stacEndpoint");
 
   if (stacEndpoint && stacEndpoint.endsWith("catalog.json")) {
+    console.log(
+      "[eodash-preview-instance] assigned stacEndpoint:",
+      stacEndpoint,
+    );
+
     return /** @type {`${string}/catalog.json`} */ (stacEndpoint);
   }
 
-  console.warn(
-    "[eodash-preview-instance] stacEndpoint not assigned, using default",
-  );
   if (window.parent !== window) {
     const message = {
       type: "eodash:loaded",
@@ -187,6 +189,9 @@ function assignStacEndpoint() {
     };
     window.parent.postMessage(message, "*");
   }
+  console.warn(
+    "[eodash-preview-instance] stacEndpoint not assigned, using default",
+  );
   return "https://esa-eodashboards.github.io/eodashboard-catalog/trilateral/catalog.json";
 }
 
@@ -197,10 +202,11 @@ window.addEventListener("message", (event) => {
       break;
 
     case "eodash:stacEndpoint":
-      const stacEndpoint = event.data.endpoint;
+      const stacEndpoint = event?.data.endpoint;
       console.log("stacEndpoint from parent:", stacEndpoint);
       if (stacEndpoint && stacEndpoint.endsWith("catalog.json")) {
         const urlParams = new URLSearchParams(window.location.search);
+        urlParams.set("stacEndpoint", stacEndpoint);
         window.history.replaceState({}, "", `?${urlParams}`);
         window.location.reload();
         console.log(
