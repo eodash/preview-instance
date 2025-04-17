@@ -179,7 +179,7 @@ function assignStacEndpoint() {
       stacEndpoint,
     );
 
-    return /** @type {`${string}/catalog.json`} */ (stacEndpoint);
+    return /** @type {`${string}/catalog.json`} */ (stacEndpoint) + "?t=" + Date.now();
   }
 
   if (window.parent !== window) {
