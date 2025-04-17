@@ -206,7 +206,7 @@ window.addEventListener("message", (event) => {
       console.log("stacEndpoint from parent:", stacEndpoint);
       if (stacEndpoint && stacEndpoint.endsWith("catalog.json")) {
         const urlParams = new URLSearchParams(window.location.search);
-        urlParams.set("stacEndpoint", stacEndpoint);
+        urlParams.set("stacEndpoint", stacEndpoint + "?t=" + Date.now());
         window.history.replaceState({}, "", `?${urlParams}`);
         window.location.reload();
         console.log(
