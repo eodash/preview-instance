@@ -192,7 +192,12 @@ function assignStacEndpoint() {
   console.warn(
     "[eodash-preview-instance] stacEndpoint not assigned, using default",
   );
-  return "https://esa-eodashboards.github.io/eodashboard-catalog/trilateral/catalog.json";
+  /*
+  TODO: we should evaluate how to handle if stacEndpoint is not set, having a default
+  endpoint is not a good idea, it should show an error message instead
+  setting it to an empty string for now
+  */
+  return "";
 }
 
 window.addEventListener("message", (event) => {
@@ -206,7 +211,7 @@ window.addEventListener("message", (event) => {
       console.log("stacEndpoint from parent:", stacEndpoint);
       if (stacEndpoint && stacEndpoint.endsWith("catalog.json")) {
         const urlParams = new URLSearchParams(window.location.search);
-        urlParams.set("stacEndpoint", stacEndpoint + "?t=" + Date.now());
+        urlParams.set("stacEndpoint", stacEndpoint);
         window.history.replaceState({}, "", `?${urlParams}`);
         window.location.reload();
         console.log(
