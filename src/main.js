@@ -108,6 +108,14 @@ export default createEodash({
                 type: "internal",
                 widget: {
                   name: "EodashStacInfo",
+                  properties: {
+                    tags: [],
+                    header: [],
+                    footer: [],
+                    body: ["description"],
+                    styleOverride: "",
+                    featured: [],
+                  },
                 },
               }
             : null;
