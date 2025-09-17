@@ -2,7 +2,7 @@ import { createEodash } from "@eodash/eodash";
 
 export default createEodash({
   id: "preview",
-  stacEndpoint: assignStacEndpoint(),
+  stacEndpoint: /** @type {`${string}/catalog.json`} */ (assignStacEndpoint()),
   brand: {
     noLayout: true,
     name: "Preview",
