@@ -1,21 +1,23 @@
 {
-  "name": "eodashboard-preview-client",
+  "name": "eodash-preview-instance",
   "version": "1.0.0",
   "main": "src/main.js",
   "type": "module",
   "scripts": {
-    "dev": "eodash dev",
-    "build": "eodash build",
-    "preview": "eodash preview",
-    "format": "prettier . --write"
-  },
-  "author": "",
-  "license": "MIT",
-  "description": "",
-  "dependencies": {
-    "@eodash/eodash": "https://pkg.pr.new/eodash/eodash/@eodash/eodash@237"
+    "dev": "vite",
+    "dev:iframe": "live-server --port=5174 --open=/iframe.html",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write .",
+    "check": "tsc --noEmit --skipLibCheck && eslint ."
   },
   "devDependencies": {
-    "@eox/eslint-config": "^2.0.0"
+    "@eox/eslint-config": "^2.0.0",
+    "vite": "^7.1.2"
+  },
+  "dependencies": {
+    "@eodash/eodash": "https://pkg.pr.new/eodash/eodash/@eodash/eodash@ce7afb3",
+    "@eox/ui": "^0.4.0",
+    "live-server": "^1.2.2"
   }
 }
