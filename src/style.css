@@ -1,0 +1,32 @@
+@import url("@eox/ui/style.css");
+
+html {
+  overflow: hidden;
+  z-index: 0;
+}
+#app {
+  height: 100dvh;
+  width: 100dvw;
+  overflow: hidden;
+}
+eo-dash {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+#eodash-container {
+  height: 91%;
+}
+
+form {
+  height: 7%;
+  margin: 14px 8px 8px 8px;
+  padding: 8px;
+}
+form * {
+  font-family: Sintony, sans-serif;
+}
+
+.input-container {
+  width: 95%;
+}
