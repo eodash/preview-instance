@@ -43,7 +43,7 @@ export default createEodash({
   },
   template: {
     loading: {
-      id: Symbol(),
+      id: "Loading",
       type: "web-component",
       widget: {
         // https://uiball.com/ldrs/
@@ -78,7 +78,7 @@ export default createEodash({
     },
     widgets: [
       {
-        id: Symbol(),
+        id: "Tools",
         type: "internal",
         title: "Tools",
         layout: { x: 0, y: 0, w: 3, h: 1 },
@@ -99,7 +99,7 @@ export default createEodash({
         },
       },
       {
-        id: Symbol(),
+        id: "Layers",
         type: "internal",
         title: "Layers",
         layout: { x: 0, y: 1, w: 3, h: 6 },
