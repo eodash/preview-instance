@@ -1,1 +1,0 @@
-import{b as r,e as t}from"./main-Q31mW-EY.js";import"./templates-CP4OFojK.js";const s=["src"],o={__name:"IframeWrapper",props:{src:{type:String,required:!0}},setup(e){return(c,a)=>(t(),r("iframe",{src:e.src,class:"fill-height fill-width"},null,8,s))}};export{o as default};
