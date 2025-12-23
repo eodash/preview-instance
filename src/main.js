@@ -173,7 +173,7 @@ function assignStacEndpoint() {
   const stacEndpoint = urlParams.get("stacEndpoint");
 
   if (stacEndpoint && stacEndpoint.endsWith("catalog.json")) {
-    console.log(
+    console.info(
       "[eodash-preview-instance] assigned stacEndpoint:",
       stacEndpoint,
     );
@@ -189,13 +189,9 @@ function assignStacEndpoint() {
     window.parent.postMessage(message, "*");
   }
   console.warn(
-    "[eodash-preview-instance] stacEndpoint not assigned, using default",
+    "[eodash-preview-instance] stacEndpoint not assigned",
   );
-  /*
-  TODO: we should evaluate how to handle if stacEndpoint is not set, having a default
-  endpoint is not a good idea, it should show an error message instead
-  setting it to an empty string for now
-  */
+
   return "";
 }
 
