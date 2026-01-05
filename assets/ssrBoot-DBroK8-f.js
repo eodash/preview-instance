@@ -1,0 +1,1 @@
+import{s as t,t as s,r as e}from"./templates-CeJFuBW4.js";import{o as n}from"./main-QnrEKAFF.js";function u(){const o=t(!1);return n(()=>{window.requestAnimationFrame(()=>{o.value=!0})}),{ssrBootStyles:s(()=>o.value?void 0:{transition:"none !important"}),isBooted:e(o)}}export{u};
