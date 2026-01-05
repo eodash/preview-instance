@@ -118,13 +118,23 @@ export default createEodash({
                 widget: {
                   name: "EodashStacInfo",
                   properties: {
-                    tags: [],
-                    header: [],
-                    footer: [],
-                    body: ["description"],
-                    styleOverride: "",
-                    featured: [],
-                  },
+                      featured: [
+                        "description",
+                        "providers",
+                        "assets",
+                        "sci:doi",
+                        "sci:citation",
+                      ],
+                      body: [
+                        "satellite",
+                        "sensor",
+                        "otherSources",
+                        "insituSources",
+                        "agency",
+                        "extent",
+                      ],
+                      footer: []
+                    },
                 },
               }
             : null;
