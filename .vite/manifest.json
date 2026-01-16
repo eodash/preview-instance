@@ -1,6 +1,6 @@
 {
   "../../../src/main.js": {
-    "file": "assets/main-GKVQ7c1d.js",
+    "file": "assets/main-X4JBz_9B.js",
     "name": "main",
     "src": "../../../src/main.js",
     "isDynamicEntry": true,
@@ -9,271 +9,163 @@
       "templates/index.js"
     ]
   },
-  "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
-    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
-  },
-  "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
-    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
-  },
-  "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
-    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
-  },
-  "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
-    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
-  },
-  "../../@eox/drawtools/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
-    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
-  },
-  "../../@eox/drawtools/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
-    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
-  },
-  "../../@eox/drawtools/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
-    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
-  },
-  "../../@eox/drawtools/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
-    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
-  },
   "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
     "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
   },
   "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
     "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
   },
   "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
     "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
   },
   "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
     "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
   },
   "../../@eox/geosearch/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
     "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
   },
   "../../@eox/geosearch/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
     "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
   },
   "../../@eox/geosearch/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
     "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
   },
   "../../@eox/geosearch/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
     "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
-  },
-  "../../@eox/itemfilter/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
-    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
-  },
-  "../../@eox/itemfilter/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
-    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
-  },
-  "../../@eox/itemfilter/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
-    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
-  },
-  "../../@eox/itemfilter/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
-    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
   },
   "../../@eox/itemfilter/src/main.js": {
-    "file": "assets/main-rImOEuva.js",
+    "file": "assets/main-BOkKm9Fy.js",
     "name": "main",
     "src": "../../@eox/itemfilter/src/main.js",
     "isDynamicEntry": true,
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_map-DiiNQ3pp.js",
-      "_when-3fO0zp9C.js",
-      "_dayjs.min-CKyWf61c.js",
-      "_index-Bi1zoTp_.js",
-      "_static-BGg7YUw1.js",
-      "_repeat-Cc-hVx0L.js",
-      "_unsafe-html-CN7cyBRn.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_map-Bv-shLAs.js",
+      "_when-CI7b_ccM.js",
+      "_style-DKU08UVs.js",
+      "_dayjs.min-ang4_BnA.js",
+      "_index-eUEnCr0o.js",
+      "_static-CRB4TPUT.js",
+      "_repeat-CWCsuY6g.js",
+      "_unsafe-html-9XwyaUtW.js",
       "_toolcool-range-slider.min-BO3Tl_nj.js",
       "_orient2d-DArCjZZA.js",
-      "_index-BSpBAx16.js",
+      "_index-CxojoGlr.js",
       "templates/index.js",
-      "_directive-CvdRHFdJ.js",
-      "_directive-helpers-NeOefacU.js"
-    ],
-    "assets": [
-      "assets/material-symbols-outlined-BZinq3R6.woff2",
-      "assets/material-symbols-rounded-DVluyMkh.woff2",
-      "assets/material-symbols-sharp-DQLBrjHA.woff2",
-      "assets/material-symbols-subset-BaAQ-FMD.woff2"
+      "_directive-CwRn8Fwj.js",
+      "_directive-helpers-BBe88Per.js"
     ]
   },
-  "../../@eox/jsonform/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
-    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
-  },
-  "../../@eox/jsonform/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
-    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
-  },
-  "../../@eox/jsonform/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
-    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
-  },
-  "../../@eox/jsonform/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
-    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
-  },
   "../../@eox/jsonform/src/main.js": {
-    "file": "assets/main-BmOPNeYr.js",
+    "file": "assets/main-DuSPapQD.js",
     "name": "main",
     "src": "../../@eox/jsonform/src/main.js",
     "isDynamicEntry": true,
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_when-3fO0zp9C.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_when-CI7b_ccM.js",
       "_editor-CCHS57uz.js",
       "templates/index.js",
       "_toolcool-range-slider.min-BO3Tl_nj.js",
-      "_utils-DdqsOAFE.js",
-      "_index-C4tGB4Vy.js",
-      "_index-BSpBAx16.js"
-    ],
-    "assets": [
-      "assets/material-symbols-outlined-BZinq3R6.woff2",
-      "assets/material-symbols-rounded-DVluyMkh.woff2",
-      "assets/material-symbols-sharp-DQLBrjHA.woff2",
-      "assets/material-symbols-subset-BaAQ-FMD.woff2"
+      "_utils-CHGQ4ScM.js",
+      "_style-DKU08UVs.js",
+      "_index-DJgBxPHe.js",
+      "_index-CxojoGlr.js"
     ]
   },
-  "../../@eox/layercontrol/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
-    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
-  },
-  "../../@eox/layercontrol/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
-    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
-  },
-  "../../@eox/layercontrol/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
-    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
-  },
-  "../../@eox/layercontrol/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
-    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
-  },
   "../../@eox/layercontrol/src/main.js": {
-    "file": "assets/main-qn-UJS4-.js",
+    "file": "assets/main-CGrQ3bBX.js",
     "name": "main",
     "src": "../../@eox/layercontrol/src/main.js",
     "isDynamicEntry": true,
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_when-3fO0zp9C.js",
-      "_repeat-Cc-hVx0L.js",
-      "_directive-CvdRHFdJ.js",
-      "_directive-helpers-NeOefacU.js",
-      "_unsafe-html-CN7cyBRn.js",
-      "_map-DiiNQ3pp.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_when-CI7b_ccM.js",
+      "_repeat-CWCsuY6g.js",
+      "_directive-CwRn8Fwj.js",
+      "_directive-helpers-BBe88Per.js",
+      "_unsafe-html-9XwyaUtW.js",
+      "_map-Bv-shLAs.js",
+      "_style-DKU08UVs.js",
       "templates/index.js",
-      "_index-Bi1zoTp_.js",
+      "_index-eUEnCr0o.js",
       "_getElement-CdRlZPdn.js"
-    ],
-    "assets": [
-      "assets/material-symbols-outlined-BZinq3R6.woff2",
-      "assets/material-symbols-rounded-DVluyMkh.woff2",
-      "assets/material-symbols-sharp-DQLBrjHA.woff2",
-      "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
-  "../../@eox/map/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
-    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
-  },
-  "../../@eox/map/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
-    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
-  },
-  "../../@eox/map/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
-    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
-  },
-  "../../@eox/map/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
-    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
-  },
-  "../../@eox/stacinfo/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
-    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
-  },
-  "../../@eox/stacinfo/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
-    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
-  },
-  "../../@eox/stacinfo/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
-    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
-  },
-  "../../@eox/stacinfo/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
-    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
-  },
-  "../../@eox/timecontrol/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
-    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
-  },
-  "../../@eox/timecontrol/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
-    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
-  },
-  "../../@eox/timecontrol/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
-    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
-  },
-  "../../@eox/timecontrol/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
-    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
+  "../../@eox/map/src/plugins/globe/index.js": {
+    "file": "assets/index-DeX1iFLH.js",
+    "name": "index",
+    "src": "../../@eox/map/src/plugins/globe/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-DZqaEoEh.js",
+      "index.html",
+      "templates/index.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_Group-CyO5KGid.js",
+      "_extent-CNYecLM1.js",
+      "_WKT-DswoXuO-.js",
+      "_easing-vFiYzKl6.js",
+      "_EodashMapBtns-BwFrCRfp.js",
+      "widgets/ExportState.vue",
+      "widgets/PopUp.vue",
+      "_forwardRefs-D_r7f9D9.js",
+      "_transition-C26lohwM.js",
+      "_main-BOVsXhwx.js",
+      "_style-DKU08UVs.js",
+      "_sequential-w-Nnb9-P.js",
+      "_orient2d-DArCjZZA.js",
+      "_VImg-Du9krlNa.js",
+      "widgets/EodashItemFilter.vue",
+      "_handling-v-9SCUgG.js",
+      "_async-rCAoR8Ta.js",
+      "_utils-CHGQ4ScM.js",
+      "_index-CxojoGlr.js",
+      "_directive-CwRn8Fwj.js",
+      "_unsafe-html-9XwyaUtW.js",
+      "_index-eUEnCr0o.js",
+      "_getElement-CdRlZPdn.js"
+    ]
   },
   "../../@eox/timeslider/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
     "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
   },
   "../../@eox/timeslider/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
     "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
   },
   "../../@eox/timeslider/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
     "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
   },
   "../../@eox/timeslider/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
     "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
   },
   "../../@eox/ui/dist/material-symbols-outlined.woff2": {
     "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
   },
   "../../@eox/ui/dist/material-symbols-rounded.woff2": {
     "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
   },
   "../../@eox/ui/dist/material-symbols-sharp.woff2": {
     "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
   },
   "../../@eox/ui/dist/material-symbols-subset.woff2": {
     "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
-    "src": "../../@eox/chart/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
   },
   "../../geotiff/dist-module/compression/deflate.js": {
     "file": "assets/deflate-B9JhHpvg.js",
@@ -295,7 +187,7 @@
     ]
   },
   "../../geotiff/dist-module/compression/lerc.js": {
-    "file": "assets/lerc-Cp-nQUMk.js",
+    "file": "assets/lerc-D_znXpNd.js",
     "name": "lerc",
     "src": "../../geotiff/dist-module/compression/lerc.js",
     "isDynamicEntry": true,
@@ -303,30 +195,31 @@
       "_pako.esm-Cram60i4.js",
       "templates/index.js",
       "_basedecoder-B2c5_Eok.js",
-      "_index-M9Oc7uOV.js",
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_Group-CPHtpLBp.js",
-      "_math-DXzYutMt.js",
-      "_WKT-BIJglCkV.js",
-      "_easing-vFiYzKl6.js",
-      "_EodashMapBtns-1eMpNRhw.js",
+      "_index-DZqaEoEh.js",
       "index.html",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_Group-CyO5KGid.js",
+      "_extent-CNYecLM1.js",
+      "_WKT-DswoXuO-.js",
+      "_easing-vFiYzKl6.js",
+      "_EodashMapBtns-BwFrCRfp.js",
       "widgets/ExportState.vue",
       "widgets/PopUp.vue",
-      "_forwardRefs-CDAZIxda.js",
-      "_transition-CXooAU6F.js",
-      "_main-DTS6dhss.js",
-      "_sequential-Bu6O1RMr.js",
+      "_forwardRefs-D_r7f9D9.js",
+      "_transition-C26lohwM.js",
+      "_main-BOVsXhwx.js",
+      "_style-DKU08UVs.js",
+      "_sequential-w-Nnb9-P.js",
       "_orient2d-DArCjZZA.js",
-      "_VImg-CT4GkyvO.js",
+      "_VImg-Du9krlNa.js",
       "widgets/EodashItemFilter.vue",
-      "_handling-CU1zTjhh.js",
-      "_async-ChebVBvX.js",
-      "_utils-DdqsOAFE.js",
-      "_index-BSpBAx16.js",
-      "_directive-CvdRHFdJ.js",
-      "_unsafe-html-CN7cyBRn.js",
-      "_index-Bi1zoTp_.js",
+      "_handling-v-9SCUgG.js",
+      "_async-rCAoR8Ta.js",
+      "_utils-CHGQ4ScM.js",
+      "_index-CxojoGlr.js",
+      "_directive-CwRn8Fwj.js",
+      "_unsafe-html-9XwyaUtW.js",
+      "_index-eUEnCr0o.js",
       "_getElement-CdRlZPdn.js"
     ]
   },
@@ -372,8 +265,12 @@
     "src": "../../geotiff/dist-module/worker/decoder.js",
     "isDynamicEntry": true
   },
-  "_EodashMapBtns-1eMpNRhw.js": {
-    "file": "assets/EodashMapBtns-1eMpNRhw.js",
+  "_EodashMapBtns-BgRTdPa0.css": {
+    "file": "assets/EodashMapBtns-BgRTdPa0.css",
+    "src": "_EodashMapBtns-BgRTdPa0.css"
+  },
+  "_EodashMapBtns-BwFrCRfp.js": {
+    "file": "assets/EodashMapBtns-BwFrCRfp.js",
     "name": "EodashMapBtns",
     "isDynamicEntry": true,
     "imports": [
@@ -382,16 +279,16 @@
       "widgets/ExportState.vue",
       "widgets/PopUp.vue",
       "widgets/EodashItemFilter.vue",
-      "_handling-CU1zTjhh.js",
+      "_handling-v-9SCUgG.js",
       "_easing-vFiYzKl6.js",
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_directive-CvdRHFdJ.js",
-      "_unsafe-html-CN7cyBRn.js",
-      "_index-Bi1zoTp_.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_directive-CwRn8Fwj.js",
+      "_unsafe-html-9XwyaUtW.js",
+      "_index-eUEnCr0o.js",
       "_getElement-CdRlZPdn.js"
     ],
     "css": [
-      "assets/EodashMapBtns-qSulfRUJ.css"
+      "assets/EodashMapBtns-BgRTdPa0.css"
     ],
     "assets": [
       "assets/material-symbols-outlined-BZinq3R6.woff2",
@@ -400,76 +297,72 @@
       "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
-  "_EodashMapBtns-qSulfRUJ.css": {
-    "file": "assets/EodashMapBtns-qSulfRUJ.css",
-    "src": "_EodashMapBtns-qSulfRUJ.css"
-  },
-  "_Group-CPHtpLBp.js": {
-    "file": "assets/Group-CPHtpLBp.js",
+  "_Group-CyO5KGid.js": {
+    "file": "assets/Group-CyO5KGid.js",
     "name": "Group",
     "imports": [
-      "_math-DXzYutMt.js"
-    ]
-  },
-  "_ProcessList-A0vbbwwg.js": {
-    "file": "assets/ProcessList-A0vbbwwg.js",
-    "name": "ProcessList",
-    "isDynamicEntry": true,
-    "imports": [
-      "index.html",
-      "templates/index.js",
-      "_async-ChebVBvX.js",
-      "_index-CwFarWFF.js"
-    ],
-    "css": [
-      "assets/ProcessList-BDwMuY7x.css"
+      "_extent-CNYecLM1.js"
     ]
   },
   "_ProcessList-BDwMuY7x.css": {
     "file": "assets/ProcessList-BDwMuY7x.css",
     "src": "_ProcessList-BDwMuY7x.css"
   },
-  "_VImg-CT4GkyvO.js": {
-    "file": "assets/VImg-CT4GkyvO.js",
-    "name": "VImg",
+  "_ProcessList-CDXNuL6f.js": {
+    "file": "assets/ProcessList-CDXNuL6f.js",
+    "name": "ProcessList",
+    "isDynamicEntry": true,
     "imports": [
       "index.html",
       "templates/index.js",
-      "_transition-CXooAU6F.js"
+      "_async-rCAoR8Ta.js",
+      "_index-Bb19_QW7.js"
     ],
     "css": [
-      "assets/VImg-DYyoOkgZ.css"
+      "assets/ProcessList-BDwMuY7x.css"
     ]
   },
   "_VImg-DYyoOkgZ.css": {
     "file": "assets/VImg-DYyoOkgZ.css",
     "src": "_VImg-DYyoOkgZ.css"
   },
-  "_VMain-BgZe1Gf7.js": {
-    "file": "assets/VMain-BgZe1Gf7.js",
+  "_VImg-Du9krlNa.js": {
+    "file": "assets/VImg-Du9krlNa.js",
+    "name": "VImg",
+    "imports": [
+      "index.html",
+      "templates/index.js",
+      "_transition-C26lohwM.js"
+    ],
+    "css": [
+      "assets/VImg-DYyoOkgZ.css"
+    ]
+  },
+  "_VMain-D441Sh9V.js": {
+    "file": "assets/VMain-D441Sh9V.js",
     "name": "VMain",
     "imports": [
       "index.html",
-      "_ssrBoot-DBroK8-f.js",
+      "_ssrBoot-CFCKXPsn.js",
       "templates/index.js"
     ],
     "css": [
-      "assets/VMain-CVLTPIia.css"
+      "assets/VMain-vDqa__t1.css"
     ]
   },
-  "_VMain-CVLTPIia.css": {
-    "file": "assets/VMain-CVLTPIia.css",
-    "src": "_VMain-CVLTPIia.css"
+  "_VMain-vDqa__t1.css": {
+    "file": "assets/VMain-vDqa__t1.css",
+    "src": "_VMain-vDqa__t1.css"
   },
   "_VTooltip-Czf-fUM7.css": {
     "file": "assets/VTooltip-Czf-fUM7.css",
     "src": "_VTooltip-Czf-fUM7.css"
   },
-  "_VTooltip-D0t2G5QS.js": {
-    "file": "assets/VTooltip-D0t2G5QS.js",
+  "_VTooltip-iN_mtoNW.js": {
+    "file": "assets/VTooltip-iN_mtoNW.js",
     "name": "VTooltip",
     "imports": [
-      "_forwardRefs-CDAZIxda.js",
+      "_forwardRefs-D_r7f9D9.js",
       "index.html",
       "templates/index.js"
     ],
@@ -477,15 +370,15 @@
       "assets/VTooltip-Czf-fUM7.css"
     ]
   },
-  "_WKT-BIJglCkV.js": {
-    "file": "assets/WKT-BIJglCkV.js",
+  "_WKT-DswoXuO-.js": {
+    "file": "assets/WKT-DswoXuO-.js",
     "name": "WKT",
     "imports": [
-      "_math-DXzYutMt.js"
+      "_extent-CNYecLM1.js"
     ]
   },
-  "_addCommonStyleSheet-DXDJ8TFo.js": {
-    "file": "assets/addCommonStyleSheet-DXDJ8TFo.js",
+  "_addCommonStyleSheet-Yq-7s86-.js": {
+    "file": "assets/addCommonStyleSheet-Yq-7s86-.js",
     "name": "addCommonStyleSheet",
     "assets": [
       "assets/material-symbols-outlined-BZinq3R6.woff2",
@@ -494,35 +387,35 @@
       "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
-  "_async-ChebVBvX.js": {
-    "file": "assets/async-ChebVBvX.js",
+  "_async-rCAoR8Ta.js": {
+    "file": "assets/async-rCAoR8Ta.js",
     "name": "async",
     "imports": [
       "templates/index.js",
       "index.html",
-      "_utils-DdqsOAFE.js"
+      "_utils-CHGQ4ScM.js"
     ]
   },
   "_basedecoder-B2c5_Eok.js": {
     "file": "assets/basedecoder-B2c5_Eok.js",
     "name": "basedecoder"
   },
-  "_dayjs.min-CKyWf61c.js": {
-    "file": "assets/dayjs.min-CKyWf61c.js",
+  "_dayjs.min-ang4_BnA.js": {
+    "file": "assets/dayjs.min-ang4_BnA.js",
     "name": "dayjs.min",
     "imports": [
       "templates/index.js"
     ]
   },
-  "_directive-CvdRHFdJ.js": {
-    "file": "assets/directive-CvdRHFdJ.js",
+  "_directive-CwRn8Fwj.js": {
+    "file": "assets/directive-CwRn8Fwj.js",
     "name": "directive"
   },
-  "_directive-helpers-NeOefacU.js": {
-    "file": "assets/directive-helpers-NeOefacU.js",
+  "_directive-helpers-BBe88Per.js": {
+    "file": "assets/directive-helpers-BBe88Per.js",
     "name": "directive-helpers",
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js"
+      "_addCommonStyleSheet-Yq-7s86-.js"
     ]
   },
   "_easing-vFiYzKl6.js": {
@@ -533,17 +426,21 @@
     "file": "assets/editor-CCHS57uz.js",
     "name": "editor"
   },
+  "_extent-CNYecLM1.js": {
+    "file": "assets/extent-CNYecLM1.js",
+    "name": "extent"
+  },
   "_forwardRefs-BgMdBN1t.css": {
     "file": "assets/forwardRefs-BgMdBN1t.css",
     "src": "_forwardRefs-BgMdBN1t.css"
   },
-  "_forwardRefs-CDAZIxda.js": {
-    "file": "assets/forwardRefs-CDAZIxda.js",
+  "_forwardRefs-D_r7f9D9.js": {
+    "file": "assets/forwardRefs-D_r7f9D9.js",
     "name": "forwardRefs",
     "imports": [
       "index.html",
       "templates/index.js",
-      "_transition-CXooAU6F.js"
+      "_transition-C26lohwM.js"
     ],
     "css": [
       "assets/forwardRefs-BgMdBN1t.css"
@@ -553,59 +450,53 @@
     "file": "assets/getElement-CdRlZPdn.js",
     "name": "getElement"
   },
-  "_handling-CU1zTjhh.js": {
-    "file": "assets/handling-CU1zTjhh.js",
+  "_handling-v-9SCUgG.js": {
+    "file": "assets/handling-v-9SCUgG.js",
     "name": "handling",
     "imports": [
       "templates/index.js",
-      "_async-ChebVBvX.js",
+      "_async-rCAoR8Ta.js",
       "index.html"
     ]
   },
-  "_index-BSpBAx16.js": {
-    "file": "assets/index-BSpBAx16.js",
-    "name": "index"
-  },
-  "_index-Bi1zoTp_.js": {
-    "file": "assets/index-Bi1zoTp_.js",
-    "name": "index",
-    "imports": [
-      "templates/index.js"
-    ]
-  },
-  "_index-C4tGB4Vy.js": {
-    "file": "assets/index-C4tGB4Vy.js",
-    "name": "index",
-    "imports": [
-      "templates/index.js"
-    ]
-  },
-  "_index-CgcDsQMt.css": {
-    "file": "assets/index-CgcDsQMt.css",
-    "src": "_index-CgcDsQMt.css"
-  },
-  "_index-CwFarWFF.js": {
-    "file": "assets/index-CwFarWFF.js",
+  "_index-Bb19_QW7.js": {
+    "file": "assets/index-Bb19_QW7.js",
     "name": "index",
     "imports": [
       "index.html",
-      "_VTooltip-D0t2G5QS.js"
+      "_VTooltip-iN_mtoNW.js"
     ]
   },
-  "_index-M9Oc7uOV.js": {
-    "file": "assets/index-M9Oc7uOV.js",
+  "_index-CESBOcRv.css": {
+    "file": "assets/index-CESBOcRv.css",
+    "src": "_index-CESBOcRv.css"
+  },
+  "_index-CxojoGlr.js": {
+    "file": "assets/index-CxojoGlr.js",
+    "name": "index"
+  },
+  "_index-DJgBxPHe.js": {
+    "file": "assets/index-DJgBxPHe.js",
+    "name": "index",
+    "imports": [
+      "templates/index.js"
+    ]
+  },
+  "_index-DZqaEoEh.js": {
+    "file": "assets/index-DZqaEoEh.js",
     "name": "index",
     "isDynamicEntry": true,
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_Group-CPHtpLBp.js",
-      "_math-DXzYutMt.js",
-      "_WKT-BIJglCkV.js",
+      "index.html",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_Group-CyO5KGid.js",
+      "_extent-CNYecLM1.js",
+      "_WKT-DswoXuO-.js",
       "_easing-vFiYzKl6.js",
-      "_EodashMapBtns-1eMpNRhw.js",
-      "_getElement-CdRlZPdn.js",
+      "_EodashMapBtns-BwFrCRfp.js",
       "templates/index.js",
-      "index.html"
+      "_getElement-CdRlZPdn.js",
+      "_style-DKU08UVs.js"
     ],
     "dynamicImports": [
       "../../geotiff/dist-module/compression/raw.js",
@@ -615,47 +506,33 @@
       "../../geotiff/dist-module/compression/packbits.js",
       "../../geotiff/dist-module/compression/lerc.js",
       "../../geotiff/dist-module/compression/webimage.js",
-      "../../geotiff/dist-module/worker/decoder.js"
+      "../../geotiff/dist-module/worker/decoder.js",
+      "../../@eox/map/src/plugins/globe/index.js"
     ],
     "css": [
-      "assets/index-CgcDsQMt.css"
-    ],
-    "assets": [
-      "assets/material-symbols-outlined-BZinq3R6.woff2",
-      "assets/material-symbols-rounded-DVluyMkh.woff2",
-      "assets/material-symbols-sharp-DQLBrjHA.woff2",
-      "assets/material-symbols-subset-BaAQ-FMD.woff2"
+      "assets/index-CESBOcRv.css"
     ]
   },
-  "_isoWeek-D5o6Nf50.js": {
-    "file": "assets/isoWeek-D5o6Nf50.js",
-    "name": "isoWeek",
+  "_index-eUEnCr0o.js": {
+    "file": "assets/index-eUEnCr0o.js",
+    "name": "index",
     "imports": [
       "templates/index.js"
     ]
   },
-  "_main-DTS6dhss.js": {
-    "file": "assets/main-DTS6dhss.js",
+  "_main-BOVsXhwx.js": {
+    "file": "assets/main-BOVsXhwx.js",
     "name": "main",
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_sequential-Bu6O1RMr.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_style-DKU08UVs.js",
+      "_sequential-w-Nnb9-P.js",
       "_orient2d-DArCjZZA.js"
-    ],
-    "assets": [
-      "assets/material-symbols-outlined-BZinq3R6.woff2",
-      "assets/material-symbols-rounded-DVluyMkh.woff2",
-      "assets/material-symbols-sharp-DQLBrjHA.woff2",
-      "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
-  "_map-DiiNQ3pp.js": {
-    "file": "assets/map-DiiNQ3pp.js",
+  "_map-Bv-shLAs.js": {
+    "file": "assets/map-Bv-shLAs.js",
     "name": "map"
-  },
-  "_math-DXzYutMt.js": {
-    "file": "assets/math-DXzYutMt.js",
-    "name": "math"
   },
   "_orient2d-DArCjZZA.js": {
     "file": "assets/orient2d-DArCjZZA.js",
@@ -665,81 +542,98 @@
     "file": "assets/pako.esm-Cram60i4.js",
     "name": "pako.esm"
   },
-  "_repeat-Cc-hVx0L.js": {
-    "file": "assets/repeat-Cc-hVx0L.js",
+  "_repeat-CWCsuY6g.js": {
+    "file": "assets/repeat-CWCsuY6g.js",
     "name": "repeat",
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_directive-CvdRHFdJ.js",
-      "_directive-helpers-NeOefacU.js"
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_directive-CwRn8Fwj.js",
+      "_directive-helpers-BBe88Per.js"
     ]
   },
-  "_sequential-Bu6O1RMr.js": {
-    "file": "assets/sequential-Bu6O1RMr.js",
+  "_sequential-w-Nnb9-P.js": {
+    "file": "assets/sequential-w-Nnb9-P.js",
     "name": "sequential"
   },
-  "_ssrBoot-DBroK8-f.js": {
-    "file": "assets/ssrBoot-DBroK8-f.js",
+  "_ssrBoot-CFCKXPsn.js": {
+    "file": "assets/ssrBoot-CFCKXPsn.js",
     "name": "ssrBoot",
     "imports": [
       "templates/index.js",
       "index.html"
     ]
   },
-  "_static-BGg7YUw1.js": {
-    "file": "assets/static-BGg7YUw1.js",
+  "_static-CRB4TPUT.js": {
+    "file": "assets/static-CRB4TPUT.js",
     "name": "static",
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js"
+      "_addCommonStyleSheet-Yq-7s86-.js"
+    ]
+  },
+  "_style-DKU08UVs.js": {
+    "file": "assets/style-DKU08UVs.js",
+    "name": "style",
+    "assets": [
+      "assets/material-symbols-outlined-BZinq3R6.woff2",
+      "assets/material-symbols-rounded-DVluyMkh.woff2",
+      "assets/material-symbols-sharp-DQLBrjHA.woff2",
+      "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
   "_toolcool-range-slider.min-BO3Tl_nj.js": {
     "file": "assets/toolcool-range-slider.min-BO3Tl_nj.js",
     "name": "toolcool-range-slider.min"
   },
-  "_transition-CXooAU6F.js": {
-    "file": "assets/transition-CXooAU6F.js",
+  "_transition-C26lohwM.js": {
+    "file": "assets/transition-C26lohwM.js",
     "name": "transition",
     "imports": [
       "index.html"
     ]
   },
-  "_unsafe-html-CN7cyBRn.js": {
-    "file": "assets/unsafe-html-CN7cyBRn.js",
+  "_unsafe-html-9XwyaUtW.js": {
+    "file": "assets/unsafe-html-9XwyaUtW.js",
     "name": "unsafe-html",
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_directive-CvdRHFdJ.js"
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_directive-CwRn8Fwj.js"
     ]
   },
-  "_utils-DdqsOAFE.js": {
-    "file": "assets/utils-DdqsOAFE.js",
+  "_utils-CHGQ4ScM.js": {
+    "file": "assets/utils-CHGQ4ScM.js",
     "name": "utils",
     "imports": [
-      "_index-BSpBAx16.js"
+      "_index-CxojoGlr.js"
     ]
   },
-  "_when-3fO0zp9C.js": {
-    "file": "assets/when-3fO0zp9C.js",
+  "_vis-timeline-graph2d--ADHnH6r.js": {
+    "file": "assets/vis-timeline-graph2d--ADHnH6r.js",
+    "name": "vis-timeline-graph2d",
+    "imports": [
+      "templates/index.js"
+    ]
+  },
+  "_when-CI7b_ccM.js": {
+    "file": "assets/when-CI7b_ccM.js",
     "name": "when"
   },
   "core/client/components/DashboardLayout.vue": {
-    "file": "assets/DashboardLayout-B621o9ne.js",
+    "file": "assets/DashboardLayout-B4qKFbsv.js",
     "name": "DashboardLayout",
     "src": "core/client/components/DashboardLayout.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_VMain-BgZe1Gf7.js",
+      "_VMain-D441Sh9V.js",
       "templates/index.js",
-      "_ssrBoot-DBroK8-f.js"
+      "_ssrBoot-CFCKXPsn.js"
     ],
     "css": [
       "assets/DashboardLayout-Cf0n4_iI.css"
     ]
   },
   "core/client/components/DynamicWebComponent.vue": {
-    "file": "assets/DynamicWebComponent-Dk5J48_X.js",
+    "file": "assets/DynamicWebComponent-BfmOkx4K.js",
     "name": "DynamicWebComponent",
     "src": "core/client/components/DynamicWebComponent.vue",
     "isDynamicEntry": true,
@@ -749,7 +643,7 @@
     ]
   },
   "core/client/components/Footer.vue": {
-    "file": "assets/Footer-BPZOl7If.js",
+    "file": "assets/Footer-DNfOuC1u.js",
     "name": "Footer",
     "src": "core/client/components/Footer.vue",
     "isDynamicEntry": true,
@@ -762,23 +656,23 @@
     ]
   },
   "core/client/components/Header.vue": {
-    "file": "assets/Header-BK5qi-5v.js",
+    "file": "assets/Header-BCEqlW4l.js",
     "name": "Header",
     "src": "core/client/components/Header.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "templates/index.js",
-      "_VImg-CT4GkyvO.js",
-      "_ssrBoot-DBroK8-f.js",
-      "_transition-CXooAU6F.js"
+      "_VImg-Du9krlNa.js",
+      "_ssrBoot-CFCKXPsn.js",
+      "_transition-C26lohwM.js"
     ],
     "css": [
-      "assets/Header-Dq3SEkNJ.css"
+      "assets/Header-z4TgCqGz.css"
     ]
   },
   "core/client/components/IframeWrapper.vue": {
-    "file": "assets/IframeWrapper-DAkB0IBG.js",
+    "file": "assets/IframeWrapper-DH9dllCS.js",
     "name": "IframeWrapper",
     "src": "core/client/components/IframeWrapper.vue",
     "isDynamicEntry": true,
@@ -788,18 +682,18 @@
     ]
   },
   "core/client/components/MobileLayout.vue": {
-    "file": "assets/MobileLayout-BwtW_p_P.js",
+    "file": "assets/MobileLayout-Duq6LoCt.js",
     "name": "MobileLayout",
     "src": "core/client/components/MobileLayout.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_VMain-BgZe1Gf7.js",
+      "_VMain-D441Sh9V.js",
       "templates/index.js",
-      "_ssrBoot-DBroK8-f.js"
+      "_ssrBoot-CFCKXPsn.js"
     ],
     "css": [
-      "assets/MobileLayout-B5VyZ-GF.css"
+      "assets/MobileLayout-_yhcKWnj.css"
     ],
     "assets": [
       "assets/material-symbols-outlined-BZinq3R6.woff2",
@@ -809,7 +703,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/main-QnrEKAFF.js",
+    "file": "assets/main-iiQ98Tlg.js",
     "name": "main",
     "src": "index.html",
     "isEntry": true,
@@ -818,14 +712,15 @@
     ],
     "dynamicImports": [
       "../../../src/main.js",
+      "widgets/EodashChart.vue",
       "widgets/EodashDatePicker.vue",
       "widgets/EodashItemCatalog/index.vue",
       "widgets/EodashItemFilter.vue",
       "widgets/EodashLayerControl.vue",
       "widgets/EodashLayoutSwitcher.vue",
-      "_EodashMapBtns-1eMpNRhw.js",
-      "_index-M9Oc7uOV.js",
-      "_ProcessList-A0vbbwwg.js",
+      "_EodashMapBtns-BwFrCRfp.js",
+      "_index-DZqaEoEh.js",
+      "_ProcessList-CDXNuL6f.js",
       "widgets/EodashProcess/index.vue",
       "widgets/EodashStacInfo.vue",
       "widgets/EodashTimeSlider.vue",
@@ -841,34 +736,60 @@
       "core/client/components/Footer.vue"
     ],
     "css": [
-      "assets/main-CmgsV-D0.css"
+      "assets/main-Cfte03og.css"
     ]
   },
   "templates/index.js": {
-    "file": "assets/templates-CeJFuBW4.js",
+    "file": "assets/templates-DpRAJmv9.js",
     "name": "templates",
     "src": "templates/index.js",
     "isEntry": true
   },
+  "widgets/EodashChart.vue": {
+    "file": "assets/EodashChart-BIi4jzGu.js",
+    "name": "EodashChart",
+    "src": "widgets/EodashChart.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_main-BOVsXhwx.js",
+      "_handling-v-9SCUgG.js",
+      "templates/index.js",
+      "index.html",
+      "_index-Bb19_QW7.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_style-DKU08UVs.js",
+      "_sequential-w-Nnb9-P.js",
+      "_orient2d-DArCjZZA.js",
+      "_async-rCAoR8Ta.js",
+      "_utils-CHGQ4ScM.js",
+      "_index-CxojoGlr.js",
+      "_VTooltip-iN_mtoNW.js",
+      "_forwardRefs-D_r7f9D9.js",
+      "_transition-C26lohwM.js"
+    ],
+    "css": [
+      "assets/EodashChart-h88Xk9Hr.css"
+    ]
+  },
   "widgets/EodashDatePicker.vue": {
-    "file": "assets/EodashDatePicker-C5FVrFhM.js",
+    "file": "assets/EodashDatePicker-N4cWVRth.js",
     "name": "EodashDatePicker",
     "src": "widgets/EodashDatePicker.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "templates/index.js",
-      "_index-CwFarWFF.js",
-      "_VTooltip-D0t2G5QS.js",
-      "_forwardRefs-CDAZIxda.js",
-      "_transition-CXooAU6F.js"
+      "_index-Bb19_QW7.js",
+      "_VTooltip-iN_mtoNW.js",
+      "_forwardRefs-D_r7f9D9.js",
+      "_transition-C26lohwM.js"
     ],
     "css": [
-      "assets/EodashDatePicker-C3a6aF3a.css"
+      "assets/EodashDatePicker-BGjymOiI.css"
     ]
   },
   "widgets/EodashItemCatalog/index.vue": {
-    "file": "assets/index-Swo4uyoz.js",
+    "file": "assets/index-DN74hVkF.js",
     "name": "index",
     "src": "widgets/EodashItemCatalog/index.vue",
     "isDynamicEntry": true,
@@ -877,19 +798,19 @@
       "templates/index.js",
       "_easing-vFiYzKl6.js",
       "widgets/EodashLayoutSwitcher.vue",
-      "_VTooltip-D0t2G5QS.js",
-      "_forwardRefs-CDAZIxda.js",
-      "_transition-CXooAU6F.js"
+      "_VTooltip-iN_mtoNW.js",
+      "_forwardRefs-D_r7f9D9.js",
+      "_transition-C26lohwM.js"
     ],
     "dynamicImports": [
       "../../@eox/itemfilter/src/main.js"
     ],
     "css": [
-      "assets/index-DMGQ2y-B.css"
+      "assets/index-DLmRjHE1.css"
     ]
   },
   "widgets/EodashItemFilter.vue": {
-    "file": "assets/EodashItemFilter-DSJ_vx2T.js",
+    "file": "assets/EodashItemFilter-BZ15hWvX.js",
     "name": "EodashItemFilter",
     "src": "widgets/EodashItemFilter.vue",
     "isDynamicEntry": true,
@@ -901,27 +822,29 @@
       "../../@eox/itemfilter/src/main.js"
     ],
     "css": [
-      "assets/EodashItemFilter-DINWW-hJ.css"
+      "assets/EodashItemFilter-BYw-r5YD.css"
     ]
   },
   "widgets/EodashLayerControl.vue": {
-    "file": "assets/EodashLayerControl-DfQ6BMfl.js",
+    "file": "assets/EodashLayerControl-Cs3RoAnG.js",
     "name": "EodashLayerControl",
     "src": "widgets/EodashLayerControl.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_sequential-Bu6O1RMr.js",
-      "_directive-CvdRHFdJ.js",
-      "_Group-CPHtpLBp.js",
-      "_getElement-CdRlZPdn.js",
-      "_toolcool-range-slider.min-BO3Tl_nj.js",
-      "_dayjs.min-CKyWf61c.js",
-      "_isoWeek-D5o6Nf50.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_sequential-w-Nnb9-P.js",
+      "_directive-CwRn8Fwj.js",
+      "_style-DKU08UVs.js",
+      "_dayjs.min-ang4_BnA.js",
+      "_vis-timeline-graph2d--ADHnH6r.js",
+      "_when-CI7b_ccM.js",
       "templates/index.js",
-      "_editor-CCHS57uz.js",
-      "_math-DXzYutMt.js"
+      "_map-Bv-shLAs.js",
+      "_toolcool-range-slider.min-BO3Tl_nj.js",
+      "_getElement-CdRlZPdn.js",
+      "_index-DJgBxPHe.js",
+      "_editor-CCHS57uz.js"
     ],
     "dynamicImports": [
       "../../@eox/layercontrol/src/main.js",
@@ -929,108 +852,93 @@
     ],
     "css": [
       "assets/EodashLayerControl-B5R00ipi.css"
-    ],
-    "assets": [
-      "assets/material-symbols-outlined-BZinq3R6.woff2",
-      "assets/material-symbols-rounded-DVluyMkh.woff2",
-      "assets/material-symbols-sharp-DQLBrjHA.woff2",
-      "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
   "widgets/EodashLayoutSwitcher.vue": {
-    "file": "assets/EodashLayoutSwitcher-DegO8on-.js",
+    "file": "assets/EodashLayoutSwitcher-BWWr9SJ4.js",
     "name": "EodashLayoutSwitcher",
     "src": "widgets/EodashLayoutSwitcher.vue",
     "isDynamicEntry": true,
     "imports": [
       "templates/index.js",
       "index.html",
-      "_VTooltip-D0t2G5QS.js",
-      "_forwardRefs-CDAZIxda.js",
-      "_transition-CXooAU6F.js"
+      "_VTooltip-iN_mtoNW.js",
+      "_forwardRefs-D_r7f9D9.js",
+      "_transition-C26lohwM.js"
     ]
   },
   "widgets/EodashProcess/index.vue": {
-    "file": "assets/index-YZCrsdl3.js",
+    "file": "assets/index-CN9wpLRW.js",
     "name": "index",
     "src": "widgets/EodashProcess/index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main-DTS6dhss.js",
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_directive-CvdRHFdJ.js",
-      "_directive-helpers-NeOefacU.js",
-      "_when-3fO0zp9C.js",
+      "_main-BOVsXhwx.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_directive-CwRn8Fwj.js",
+      "_directive-helpers-BBe88Per.js",
+      "_when-CI7b_ccM.js",
+      "_style-DKU08UVs.js",
       "_getElement-CdRlZPdn.js",
-      "_WKT-BIJglCkV.js",
+      "_WKT-DswoXuO-.js",
       "../../@eox/jsonform/src/main.js",
       "index.html",
-      "_ProcessList-A0vbbwwg.js",
-      "_handling-CU1zTjhh.js",
-      "_async-ChebVBvX.js",
+      "_ProcessList-CDXNuL6f.js",
+      "widgets/EodashChart.vue",
+      "_handling-v-9SCUgG.js",
+      "_async-rCAoR8Ta.js",
       "templates/index.js",
-      "_sequential-Bu6O1RMr.js",
+      "_sequential-w-Nnb9-P.js",
       "_orient2d-DArCjZZA.js",
-      "_math-DXzYutMt.js",
+      "_extent-CNYecLM1.js",
       "_editor-CCHS57uz.js",
       "_toolcool-range-slider.min-BO3Tl_nj.js",
-      "_utils-DdqsOAFE.js",
-      "_index-BSpBAx16.js",
-      "_index-C4tGB4Vy.js",
-      "_index-CwFarWFF.js",
-      "_VTooltip-D0t2G5QS.js",
-      "_forwardRefs-CDAZIxda.js",
-      "_transition-CXooAU6F.js"
+      "_utils-CHGQ4ScM.js",
+      "_index-CxojoGlr.js",
+      "_index-DJgBxPHe.js",
+      "_index-Bb19_QW7.js",
+      "_VTooltip-iN_mtoNW.js",
+      "_forwardRefs-D_r7f9D9.js",
+      "_transition-C26lohwM.js"
     ],
     "css": [
-      "assets/index-C1iF_eAX.css"
-    ],
-    "assets": [
-      "assets/material-symbols-outlined-BZinq3R6.woff2",
-      "assets/material-symbols-rounded-DVluyMkh.woff2",
-      "assets/material-symbols-sharp-DQLBrjHA.woff2",
-      "assets/material-symbols-subset-BaAQ-FMD.woff2"
+      "assets/index-asuzl00V.css"
     ]
   },
   "widgets/EodashStacInfo.vue": {
-    "file": "assets/EodashStacInfo-DM0P_zp9.js",
+    "file": "assets/EodashStacInfo-BZ3CZJo3.js",
     "name": "EodashStacInfo",
     "src": "widgets/EodashStacInfo.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_when-3fO0zp9C.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_when-CI7b_ccM.js",
       "templates/index.js",
-      "_unsafe-html-CN7cyBRn.js",
-      "_map-DiiNQ3pp.js",
-      "_static-BGg7YUw1.js",
+      "_style-DKU08UVs.js",
+      "_unsafe-html-9XwyaUtW.js",
+      "_map-Bv-shLAs.js",
+      "_static-CRB4TPUT.js",
       "index.html",
-      "_directive-CvdRHFdJ.js"
-    ],
-    "assets": [
-      "assets/material-symbols-outlined-BZinq3R6.woff2",
-      "assets/material-symbols-rounded-DVluyMkh.woff2",
-      "assets/material-symbols-sharp-DQLBrjHA.woff2",
-      "assets/material-symbols-subset-BaAQ-FMD.woff2"
+      "_directive-CwRn8Fwj.js"
     ]
   },
   "widgets/EodashTimeSlider.vue": {
-    "file": "assets/EodashTimeSlider-Cbvs6ff8.js",
+    "file": "assets/EodashTimeSlider-8Kcpv44E.js",
     "name": "EodashTimeSlider",
     "src": "widgets/EodashTimeSlider.vue",
     "isDynamicEntry": true,
     "imports": [
       "templates/index.js",
       "index.html",
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_dayjs.min-CKyWf61c.js",
-      "_isoWeek-D5o6Nf50.js",
-      "_when-3fO0zp9C.js",
-      "_map-DiiNQ3pp.js",
-      "_Group-CPHtpLBp.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_vis-timeline-graph2d--ADHnH6r.js",
+      "_dayjs.min-ang4_BnA.js",
+      "_when-CI7b_ccM.js",
+      "_map-Bv-shLAs.js",
+      "_Group-CyO5KGid.js",
       "_getElement-CdRlZPdn.js",
-      "_index-C4tGB4Vy.js",
-      "_math-DXzYutMt.js"
+      "_index-DJgBxPHe.js",
+      "_extent-CNYecLM1.js"
     ],
     "assets": [
       "assets/material-symbols-outlined-BZinq3R6.woff2",
@@ -1040,7 +948,7 @@
     ]
   },
   "widgets/EodashTools.vue": {
-    "file": "assets/EodashTools-D_7XI0sG.js",
+    "file": "assets/EodashTools-BZdRCwHp.js",
     "name": "EodashTools",
     "src": "widgets/EodashTools.vue",
     "isDynamicEntry": true,
@@ -1050,16 +958,16 @@
       "widgets/EodashLayoutSwitcher.vue",
       "index.html",
       "templates/index.js",
-      "_forwardRefs-CDAZIxda.js",
-      "_transition-CXooAU6F.js",
-      "_VTooltip-D0t2G5QS.js"
+      "_forwardRefs-D_r7f9D9.js",
+      "_transition-C26lohwM.js",
+      "_VTooltip-iN_mtoNW.js"
     ],
     "css": [
       "assets/EodashTools-CTo7yR2p.css"
     ]
   },
   "widgets/ExportState.vue": {
-    "file": "assets/ExportState-CdCrTyXG.js",
+    "file": "assets/ExportState-QV9eI1Jw.js",
     "name": "ExportState",
     "src": "widgets/ExportState.vue",
     "isDynamicEntry": true,
@@ -1067,35 +975,36 @@
       "index.html",
       "widgets/PopUp.vue",
       "templates/index.js",
-      "_main-DTS6dhss.js",
-      "_VImg-CT4GkyvO.js",
-      "_forwardRefs-CDAZIxda.js",
-      "_transition-CXooAU6F.js",
-      "_addCommonStyleSheet-DXDJ8TFo.js",
-      "_sequential-Bu6O1RMr.js",
+      "_main-BOVsXhwx.js",
+      "_VImg-Du9krlNa.js",
+      "_forwardRefs-D_r7f9D9.js",
+      "_transition-C26lohwM.js",
+      "_addCommonStyleSheet-Yq-7s86-.js",
+      "_style-DKU08UVs.js",
+      "_sequential-w-Nnb9-P.js",
       "_orient2d-DArCjZZA.js"
     ],
     "css": [
-      "assets/ExportState-DwbmntRR.css"
+      "assets/ExportState--XysDu5e.css"
     ]
   },
   "widgets/PopUp.vue": {
-    "file": "assets/PopUp-DpXIWalW.js",
+    "file": "assets/PopUp-BM3ZEkqj.js",
     "name": "PopUp",
     "src": "widgets/PopUp.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_forwardRefs-CDAZIxda.js",
+      "_forwardRefs-D_r7f9D9.js",
       "templates/index.js",
-      "_transition-CXooAU6F.js"
+      "_transition-C26lohwM.js"
     ],
     "css": [
       "assets/PopUp-3u16SiwS.css"
     ]
   },
   "widgets/WidgetsContainer.vue": {
-    "file": "assets/WidgetsContainer-CSdsIwPf.js",
+    "file": "assets/WidgetsContainer-BZsAnUEN.js",
     "name": "WidgetsContainer",
     "src": "widgets/WidgetsContainer.vue",
     "isDynamicEntry": true,
