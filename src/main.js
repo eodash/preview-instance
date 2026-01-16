@@ -68,6 +68,7 @@ export default createEodash({
             enableExportMap: true,
             enableCompareIndicators: false,
             enableSearch: false,
+            enableGlobe: false,
           },
           btnsPosition: {
             x: "12/9/9",
@@ -105,6 +106,11 @@ export default createEodash({
         layout: { x: 0, y: 1, w: 3, h: 6 },
         widget: {
           name: "EodashLayerControl",
+          properties: {
+            cssVars: {
+              "--list-padding": "1rem",
+            },
+          },
         },
       },
       {
@@ -146,7 +152,7 @@ export default createEodash({
             ? {
                 id: "expert-datepicker",
                 type: "internal",
-                layout: { x: 5, y: 11, w: 2, h: 1 },
+                layout: { x: 4, y: 6, w: 4, h: 6 },
                 title: "Date",
                 widget: {
                   name: "EodashDatePicker",
@@ -162,7 +168,7 @@ export default createEodash({
       },
       {
         defineWidget: (selectedSTAC) =>
-          selectedSTAC?.links.some((l) => l.rel === "service")
+          window.eodashStore.actions.includesProcess(selectedSTAC)
             ? {
                 id: "Processes",
                 type: "internal",
@@ -173,6 +179,18 @@ export default createEodash({
                 },
               }
             : null,
+      },
+      {
+        defineWidget: () =>
+          window.eodashStore.actions.shouldShowChartWidget() && {
+            id: "ProcessResultChart",
+            type: "internal",
+            title: "Chart",
+            layout: { x: 0, y: 0, w: 12, h: 9 },
+            widget: {
+              name: "EodashChart",
+            },
+          },
       },
     ],
   },
