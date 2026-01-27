@@ -13,7 +13,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "@eodash/eodash": "5.5.0"
+    "@eodash/eodash": "https://pkg.pr.new/eodash/eodash/@eodash/eodash@175ef2a"
   },
   "devDependencies": {
     "@eox/eslint-config": "^2.0.0"
