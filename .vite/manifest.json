@@ -1,6 +1,6 @@
 {
   "../../../src/main.js": {
-    "file": "assets/main-CkgHsTt5.js",
+    "file": "assets/main-KnSMKSpK.js",
     "name": "main",
     "src": "../../../src/main.js",
     "isDynamicEntry": true,
@@ -42,7 +42,7 @@
     "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
   },
   "../../@eox/itemfilter/src/main.js": {
-    "file": "assets/main-BOkKm9Fy.js",
+    "file": "assets/main-CwOwk83E.js",
     "name": "main",
     "src": "../../@eox/itemfilter/src/main.js",
     "isDynamicEntry": true,
@@ -51,21 +51,36 @@
       "_map-Bv-shLAs.js",
       "_when-CI7b_ccM.js",
       "_style-DKU08UVs.js",
-      "_dayjs.min-ang4_BnA.js",
-      "_index-eUEnCr0o.js",
+      "_dayjs.min-Cg8cDliW.js",
+      "_index-LlpXF5n7.js",
       "_static-CRB4TPUT.js",
       "_repeat-CWCsuY6g.js",
       "_unsafe-html-9XwyaUtW.js",
       "_toolcool-range-slider.min-BO3Tl_nj.js",
       "_orient2d-DArCjZZA.js",
-      "_index-CxojoGlr.js",
       "templates/index.js",
       "_directive-CwRn8Fwj.js",
       "_directive-helpers-BBe88Per.js"
     ]
   },
+  "../../@eox/jsonform/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
+    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
+  },
+  "../../@eox/jsonform/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
+    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
+  },
+  "../../@eox/jsonform/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
+    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
+  },
+  "../../@eox/jsonform/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
+    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
+  },
   "../../@eox/jsonform/src/main.js": {
-    "file": "assets/main-Dwsmyb_r.js",
+    "file": "assets/main-Bp4tV0RD.js",
     "name": "main",
     "src": "../../@eox/jsonform/src/main.js",
     "isDynamicEntry": true,
@@ -75,14 +90,18 @@
       "_editor-CCHS57uz.js",
       "templates/index.js",
       "_toolcool-range-slider.min-BO3Tl_nj.js",
-      "_utils-CHGQ4ScM.js",
-      "_style-DKU08UVs.js",
-      "_index-DJgBxPHe.js",
-      "_index-CxojoGlr.js"
+      "_utils-CSwSEuV8.js",
+      "_index-DTQ4VNEA.js"
+    ],
+    "assets": [
+      "assets/material-symbols-outlined-BZinq3R6.woff2",
+      "assets/material-symbols-rounded-DVluyMkh.woff2",
+      "assets/material-symbols-sharp-DQLBrjHA.woff2",
+      "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
   "../../@eox/layercontrol/src/main.js": {
-    "file": "assets/main-D2EzSJ_w.js",
+    "file": "assets/main-B-uv2uoe.js",
     "name": "main",
     "src": "../../@eox/layercontrol/src/main.js",
     "isDynamicEntry": true,
@@ -96,44 +115,91 @@
       "_map-Bv-shLAs.js",
       "_style-DKU08UVs.js",
       "templates/index.js",
-      "_index-eUEnCr0o.js",
+      "_index-LlpXF5n7.js",
       "_getElement-CdRlZPdn.js"
     ]
   },
+  "../../@eox/map/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
+    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
+  },
+  "../../@eox/map/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
+    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
+  },
+  "../../@eox/map/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
+    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
+  },
+  "../../@eox/map/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
+    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
+  },
   "../../@eox/map/src/plugins/globe/index.js": {
-    "file": "assets/index-Cl8nG2HG.js",
+    "file": "assets/index-DCwxMzrr.js",
     "name": "index",
     "src": "../../@eox/map/src/plugins/globe/index.js",
     "isDynamicEntry": true,
     "imports": [
-      "_index-cJM4A-q3.js",
+      "_index-VVTUG32g.js",
       "index.html",
       "templates/index.js",
       "_addCommonStyleSheet-Yq-7s86-.js",
       "_Group-CyO5KGid.js",
       "_extent-CNYecLM1.js",
-      "_WKT-DswoXuO-.js",
+      "_WKT-DVs97ZYK.js",
       "_easing-vFiYzKl6.js",
-      "_EodashMapBtns-CzngIPkq.js",
+      "_EodashMapBtns-DApNg7JF.js",
       "widgets/ExportState.vue",
       "widgets/PopUp.vue",
-      "_forwardRefs-CVzOdsRx.js",
-      "_transition-oFT0h_IZ.js",
+      "_forwardRefs-n5rn9kkw.js",
+      "_transition-CfAOu4nX.js",
       "_main-BOVsXhwx.js",
       "_style-DKU08UVs.js",
       "_sequential-w-Nnb9-P.js",
       "_orient2d-DArCjZZA.js",
-      "_VImg-FCFCNkwM.js",
+      "_VImg-D-a4NvX3.js",
       "widgets/EodashItemFilter.vue",
-      "_handling-BEECaWfH.js",
-      "_async-CJ_oXMUF.js",
-      "_utils-CHGQ4ScM.js",
-      "_index-CxojoGlr.js",
+      "_handling-D5AIuZ1f.js",
+      "_async-C6iPH2he.js",
+      "_utils-CSwSEuV8.js",
       "_directive-CwRn8Fwj.js",
       "_unsafe-html-9XwyaUtW.js",
-      "_index-eUEnCr0o.js",
+      "_index-LlpXF5n7.js",
       "_getElement-CdRlZPdn.js"
     ]
+  },
+  "../../@eox/stacinfo/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
+    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
+  },
+  "../../@eox/stacinfo/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
+    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
+  },
+  "../../@eox/stacinfo/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
+    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
+  },
+  "../../@eox/stacinfo/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
+    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
+  },
+  "../../@eox/timecontrol/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
+    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
+  },
+  "../../@eox/timecontrol/node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
+    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
+  },
+  "../../@eox/timecontrol/node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
+    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
+  },
+  "../../@eox/timecontrol/node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
+    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
   },
   "../../@eox/timeslider/node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
     "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
@@ -168,109 +234,134 @@
     "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
   },
   "../../geotiff/dist-module/compression/deflate.js": {
-    "file": "assets/deflate-B9JhHpvg.js",
+    "file": "assets/deflate-Dqeyi4NT.js",
     "name": "deflate",
     "src": "../../geotiff/dist-module/compression/deflate.js",
     "isDynamicEntry": true,
     "imports": [
       "_pako.esm-Cram60i4.js",
-      "_basedecoder-B2c5_Eok.js"
+      "_basedecoder-Dx75wktK.js"
     ]
   },
   "../../geotiff/dist-module/compression/jpeg.js": {
-    "file": "assets/jpeg-vtRboCKw.js",
+    "file": "assets/jpeg-DY6pp3Km.js",
     "name": "jpeg",
     "src": "../../geotiff/dist-module/compression/jpeg.js",
     "isDynamicEntry": true,
     "imports": [
-      "_basedecoder-B2c5_Eok.js"
+      "_basedecoder-Dx75wktK.js"
     ]
   },
   "../../geotiff/dist-module/compression/lerc.js": {
-    "file": "assets/lerc-fU2p2vqD.js",
+    "file": "assets/lerc-BO13VmhH.js",
     "name": "lerc",
     "src": "../../geotiff/dist-module/compression/lerc.js",
     "isDynamicEntry": true,
     "imports": [
       "_pako.esm-Cram60i4.js",
       "templates/index.js",
-      "_basedecoder-B2c5_Eok.js",
-      "_index-cJM4A-q3.js",
+      "_basedecoder-Dx75wktK.js",
+      "_index-VVTUG32g.js",
       "index.html",
       "_addCommonStyleSheet-Yq-7s86-.js",
       "_Group-CyO5KGid.js",
       "_extent-CNYecLM1.js",
-      "_WKT-DswoXuO-.js",
+      "_WKT-DVs97ZYK.js",
       "_easing-vFiYzKl6.js",
-      "_EodashMapBtns-CzngIPkq.js",
+      "_EodashMapBtns-DApNg7JF.js",
       "widgets/ExportState.vue",
       "widgets/PopUp.vue",
-      "_forwardRefs-CVzOdsRx.js",
-      "_transition-oFT0h_IZ.js",
+      "_forwardRefs-n5rn9kkw.js",
+      "_transition-CfAOu4nX.js",
       "_main-BOVsXhwx.js",
       "_style-DKU08UVs.js",
       "_sequential-w-Nnb9-P.js",
       "_orient2d-DArCjZZA.js",
-      "_VImg-FCFCNkwM.js",
+      "_VImg-D-a4NvX3.js",
       "widgets/EodashItemFilter.vue",
-      "_handling-BEECaWfH.js",
-      "_async-CJ_oXMUF.js",
-      "_utils-CHGQ4ScM.js",
-      "_index-CxojoGlr.js",
+      "_handling-D5AIuZ1f.js",
+      "_async-C6iPH2he.js",
+      "_utils-CSwSEuV8.js",
       "_directive-CwRn8Fwj.js",
       "_unsafe-html-9XwyaUtW.js",
-      "_index-eUEnCr0o.js",
+      "_index-LlpXF5n7.js",
       "_getElement-CdRlZPdn.js"
     ]
   },
   "../../geotiff/dist-module/compression/lzw.js": {
-    "file": "assets/lzw-_aCqfs4w.js",
+    "file": "assets/lzw-CWcLLbBI.js",
     "name": "lzw",
     "src": "../../geotiff/dist-module/compression/lzw.js",
     "isDynamicEntry": true,
     "imports": [
-      "_basedecoder-B2c5_Eok.js"
+      "_basedecoder-Dx75wktK.js"
     ]
   },
   "../../geotiff/dist-module/compression/packbits.js": {
-    "file": "assets/packbits-DDWKfGV_.js",
+    "file": "assets/packbits-Cp0FZ9Sj.js",
     "name": "packbits",
     "src": "../../geotiff/dist-module/compression/packbits.js",
     "isDynamicEntry": true,
     "imports": [
-      "_basedecoder-B2c5_Eok.js"
+      "_basedecoder-Dx75wktK.js"
     ]
   },
   "../../geotiff/dist-module/compression/raw.js": {
-    "file": "assets/raw-in9isEBO.js",
+    "file": "assets/raw-CYI6PcUr.js",
     "name": "raw",
     "src": "../../geotiff/dist-module/compression/raw.js",
     "isDynamicEntry": true,
     "imports": [
-      "_basedecoder-B2c5_Eok.js"
+      "_basedecoder-Dx75wktK.js"
     ]
   },
   "../../geotiff/dist-module/compression/webimage.js": {
-    "file": "assets/webimage-DBgUwIbt.js",
+    "file": "assets/webimage-Deq5AgEy.js",
     "name": "webimage",
     "src": "../../geotiff/dist-module/compression/webimage.js",
     "isDynamicEntry": true,
     "imports": [
-      "_basedecoder-B2c5_Eok.js"
+      "_basedecoder-Dx75wktK.js"
     ]
   },
-  "../../geotiff/dist-module/worker/decoder.js": {
-    "file": "assets/decoder-tqM1uIvc.js",
-    "name": "decoder",
-    "src": "../../geotiff/dist-module/worker/decoder.js",
-    "isDynamicEntry": true
+  "../../geotiff/dist-module/compression/zstd.js": {
+    "file": "assets/zstd-C_thhmOF.js",
+    "name": "zstd",
+    "src": "../../geotiff/dist-module/compression/zstd.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_basedecoder-Dx75wktK.js"
+    ]
   },
-  "_EodashMapBtns-BgRTdPa0.css": {
-    "file": "assets/EodashMapBtns-BgRTdPa0.css",
-    "src": "_EodashMapBtns-BgRTdPa0.css"
+  "../../numcodecs/dist/blosc.js": {
+    "file": "assets/blosc-CrUiACa7.js",
+    "name": "blosc",
+    "src": "../../numcodecs/dist/blosc.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-INHXZS53-D3tQiqtZ.js"
+    ]
   },
-  "_EodashMapBtns-CzngIPkq.js": {
-    "file": "assets/EodashMapBtns-CzngIPkq.js",
+  "../../numcodecs/dist/lz4.js": {
+    "file": "assets/lz4-B_Exjfmr.js",
+    "name": "lz4",
+    "src": "../../numcodecs/dist/lz4.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-INHXZS53-D3tQiqtZ.js"
+    ]
+  },
+  "../../numcodecs/dist/zstd.js": {
+    "file": "assets/zstd-u5eweWyS.js",
+    "name": "zstd",
+    "src": "../../numcodecs/dist/zstd.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-INHXZS53-D3tQiqtZ.js"
+    ]
+  },
+  "_EodashMapBtns-DApNg7JF.js": {
+    "file": "assets/EodashMapBtns-DApNg7JF.js",
     "name": "EodashMapBtns",
     "isDynamicEntry": true,
     "imports": [
@@ -279,16 +370,16 @@
       "widgets/ExportState.vue",
       "widgets/PopUp.vue",
       "widgets/EodashItemFilter.vue",
-      "_handling-BEECaWfH.js",
+      "_handling-D5AIuZ1f.js",
       "_easing-vFiYzKl6.js",
       "_addCommonStyleSheet-Yq-7s86-.js",
       "_directive-CwRn8Fwj.js",
       "_unsafe-html-9XwyaUtW.js",
-      "_index-eUEnCr0o.js",
+      "_index-LlpXF5n7.js",
       "_getElement-CdRlZPdn.js"
     ],
     "css": [
-      "assets/EodashMapBtns-BgRTdPa0.css"
+      "assets/EodashMapBtns-DsAEQln9.css"
     ],
     "assets": [
       "assets/material-symbols-outlined-BZinq3R6.woff2",
@@ -297,6 +388,10 @@
       "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
+  "_EodashMapBtns-DsAEQln9.css": {
+    "file": "assets/EodashMapBtns-DsAEQln9.css",
+    "src": "_EodashMapBtns-DsAEQln9.css"
+  },
   "_Group-CyO5KGid.js": {
     "file": "assets/Group-CyO5KGid.js",
     "name": "Group",
@@ -304,46 +399,46 @@
       "_extent-CNYecLM1.js"
     ]
   },
-  "_ProcessList-BDwMuY7x.css": {
-    "file": "assets/ProcessList-BDwMuY7x.css",
-    "src": "_ProcessList-BDwMuY7x.css"
+  "_ProcessList-CfWpSSb-.css": {
+    "file": "assets/ProcessList-CfWpSSb-.css",
+    "src": "_ProcessList-CfWpSSb-.css"
   },
-  "_ProcessList-CCJj0xM_.js": {
-    "file": "assets/ProcessList-CCJj0xM_.js",
+  "_ProcessList-Cg43PbJL.js": {
+    "file": "assets/ProcessList-Cg43PbJL.js",
     "name": "ProcessList",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "templates/index.js",
-      "_async-CJ_oXMUF.js",
-      "_index-9SevyhCJ.js"
+      "_async-C6iPH2he.js",
+      "_index-DAvaNJ6K.js"
     ],
     "css": [
-      "assets/ProcessList-BDwMuY7x.css"
+      "assets/ProcessList-CfWpSSb-.css"
     ]
   },
-  "_VImg-DYyoOkgZ.css": {
-    "file": "assets/VImg-DYyoOkgZ.css",
-    "src": "_VImg-DYyoOkgZ.css"
-  },
-  "_VImg-FCFCNkwM.js": {
-    "file": "assets/VImg-FCFCNkwM.js",
+  "_VImg-D-a4NvX3.js": {
+    "file": "assets/VImg-D-a4NvX3.js",
     "name": "VImg",
     "imports": [
       "index.html",
       "templates/index.js",
-      "_transition-oFT0h_IZ.js"
+      "_transition-CfAOu4nX.js"
     ],
     "css": [
-      "assets/VImg-DYyoOkgZ.css"
+      "assets/VImg-DCme-h14.css"
     ]
   },
-  "_VMain-CITgadl1.js": {
-    "file": "assets/VMain-CITgadl1.js",
+  "_VImg-DCme-h14.css": {
+    "file": "assets/VImg-DCme-h14.css",
+    "src": "_VImg-DCme-h14.css"
+  },
+  "_VMain-coM4Jf22.js": {
+    "file": "assets/VMain-coM4Jf22.js",
     "name": "VMain",
     "imports": [
       "index.html",
-      "_ssrBoot-BKVYtVfM.js",
+      "_ssrBoot-MnO2kaUK.js",
       "templates/index.js"
     ],
     "css": [
@@ -354,15 +449,11 @@
     "file": "assets/VMain-vDqa__t1.css",
     "src": "_VMain-vDqa__t1.css"
   },
-  "_VTooltip-Czf-fUM7.css": {
-    "file": "assets/VTooltip-Czf-fUM7.css",
-    "src": "_VTooltip-Czf-fUM7.css"
-  },
-  "_VTooltip-DZgtVAui.js": {
-    "file": "assets/VTooltip-DZgtVAui.js",
+  "_VTooltip-BP57GUHe.js": {
+    "file": "assets/VTooltip-BP57GUHe.js",
     "name": "VTooltip",
     "imports": [
-      "_forwardRefs-CVzOdsRx.js",
+      "_forwardRefs-n5rn9kkw.js",
       "index.html",
       "templates/index.js"
     ],
@@ -370,8 +461,12 @@
       "assets/VTooltip-Czf-fUM7.css"
     ]
   },
-  "_WKT-DswoXuO-.js": {
-    "file": "assets/WKT-DswoXuO-.js",
+  "_VTooltip-Czf-fUM7.css": {
+    "file": "assets/VTooltip-Czf-fUM7.css",
+    "src": "_VTooltip-Czf-fUM7.css"
+  },
+  "_WKT-DVs97ZYK.js": {
+    "file": "assets/WKT-DVs97ZYK.js",
     "name": "WKT",
     "imports": [
       "_extent-CNYecLM1.js"
@@ -387,21 +482,25 @@
       "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
-  "_async-CJ_oXMUF.js": {
-    "file": "assets/async-CJ_oXMUF.js",
+  "_async-C6iPH2he.js": {
+    "file": "assets/async-C6iPH2he.js",
     "name": "async",
     "imports": [
       "templates/index.js",
       "index.html",
-      "_utils-CHGQ4ScM.js"
+      "_utils-CSwSEuV8.js"
     ]
   },
-  "_basedecoder-B2c5_Eok.js": {
-    "file": "assets/basedecoder-B2c5_Eok.js",
+  "_basedecoder-Dx75wktK.js": {
+    "file": "assets/basedecoder-Dx75wktK.js",
     "name": "basedecoder"
   },
-  "_dayjs.min-ang4_BnA.js": {
-    "file": "assets/dayjs.min-ang4_BnA.js",
+  "_chunk-INHXZS53-D3tQiqtZ.js": {
+    "file": "assets/chunk-INHXZS53-D3tQiqtZ.js",
+    "name": "chunk-INHXZS53"
+  },
+  "_dayjs.min-Cg8cDliW.js": {
+    "file": "assets/dayjs.min-Cg8cDliW.js",
     "name": "dayjs.min",
     "imports": [
       "templates/index.js"
@@ -434,13 +533,13 @@
     "file": "assets/forwardRefs-BgMdBN1t.css",
     "src": "_forwardRefs-BgMdBN1t.css"
   },
-  "_forwardRefs-CVzOdsRx.js": {
-    "file": "assets/forwardRefs-CVzOdsRx.js",
+  "_forwardRefs-n5rn9kkw.js": {
+    "file": "assets/forwardRefs-n5rn9kkw.js",
     "name": "forwardRefs",
     "imports": [
       "index.html",
       "templates/index.js",
-      "_transition-oFT0h_IZ.js"
+      "_transition-CfAOu4nX.js"
     ],
     "css": [
       "assets/forwardRefs-BgMdBN1t.css"
@@ -450,40 +549,43 @@
     "file": "assets/getElement-CdRlZPdn.js",
     "name": "getElement"
   },
-  "_handling-BEECaWfH.js": {
-    "file": "assets/handling-BEECaWfH.js",
+  "_handling-D5AIuZ1f.js": {
+    "file": "assets/handling-D5AIuZ1f.js",
     "name": "handling",
     "imports": [
       "templates/index.js",
-      "_async-CJ_oXMUF.js",
+      "_async-C6iPH2he.js",
       "index.html"
     ]
   },
-  "_index-9SevyhCJ.js": {
-    "file": "assets/index-9SevyhCJ.js",
+  "_index-DAvaNJ6K.js": {
+    "file": "assets/index-DAvaNJ6K.js",
     "name": "index",
     "imports": [
       "index.html",
-      "_VTooltip-DZgtVAui.js"
+      "_VTooltip-BP57GUHe.js"
     ]
   },
-  "_index-CESBOcRv.css": {
-    "file": "assets/index-CESBOcRv.css",
-    "src": "_index-CESBOcRv.css"
-  },
-  "_index-CxojoGlr.js": {
-    "file": "assets/index-CxojoGlr.js",
-    "name": "index"
-  },
-  "_index-DJgBxPHe.js": {
-    "file": "assets/index-DJgBxPHe.js",
+  "_index-DTQ4VNEA.js": {
+    "file": "assets/index-DTQ4VNEA.js",
     "name": "index",
     "imports": [
       "templates/index.js"
     ]
   },
-  "_index-cJM4A-q3.js": {
-    "file": "assets/index-cJM4A-q3.js",
+  "_index-DkS016Dx.css": {
+    "file": "assets/index-DkS016Dx.css",
+    "src": "_index-DkS016Dx.css"
+  },
+  "_index-LlpXF5n7.js": {
+    "file": "assets/index-LlpXF5n7.js",
+    "name": "index",
+    "imports": [
+      "templates/index.js"
+    ]
+  },
+  "_index-VVTUG32g.js": {
+    "file": "assets/index-VVTUG32g.js",
     "name": "index",
     "isDynamicEntry": true,
     "imports": [
@@ -491,12 +593,11 @@
       "_addCommonStyleSheet-Yq-7s86-.js",
       "_Group-CyO5KGid.js",
       "_extent-CNYecLM1.js",
-      "_WKT-DswoXuO-.js",
+      "_WKT-DVs97ZYK.js",
       "_easing-vFiYzKl6.js",
-      "_EodashMapBtns-CzngIPkq.js",
+      "_EodashMapBtns-DApNg7JF.js",
       "templates/index.js",
-      "_getElement-CdRlZPdn.js",
-      "_style-DKU08UVs.js"
+      "_getElement-CdRlZPdn.js"
     ],
     "dynamicImports": [
       "../../geotiff/dist-module/compression/raw.js",
@@ -505,19 +606,21 @@
       "../../geotiff/dist-module/compression/deflate.js",
       "../../geotiff/dist-module/compression/packbits.js",
       "../../geotiff/dist-module/compression/lerc.js",
+      "../../geotiff/dist-module/compression/zstd.js",
       "../../geotiff/dist-module/compression/webimage.js",
-      "../../geotiff/dist-module/worker/decoder.js",
+      "../../numcodecs/dist/blosc.js",
+      "../../numcodecs/dist/lz4.js",
+      "../../numcodecs/dist/zstd.js",
       "../../@eox/map/src/plugins/globe/index.js"
     ],
     "css": [
-      "assets/index-CESBOcRv.css"
-    ]
-  },
-  "_index-eUEnCr0o.js": {
-    "file": "assets/index-eUEnCr0o.js",
-    "name": "index",
-    "imports": [
-      "templates/index.js"
+      "assets/index-DkS016Dx.css"
+    ],
+    "assets": [
+      "assets/material-symbols-outlined-BZinq3R6.woff2",
+      "assets/material-symbols-rounded-DVluyMkh.woff2",
+      "assets/material-symbols-sharp-DQLBrjHA.woff2",
+      "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
   "_main-BOVsXhwx.js": {
@@ -555,12 +658,12 @@
     "file": "assets/sequential-w-Nnb9-P.js",
     "name": "sequential"
   },
-  "_ssrBoot-BKVYtVfM.js": {
-    "file": "assets/ssrBoot-BKVYtVfM.js",
+  "_ssrBoot-MnO2kaUK.js": {
+    "file": "assets/ssrBoot-MnO2kaUK.js",
     "name": "ssrBoot",
     "imports": [
-      "templates/index.js",
-      "index.html"
+      "index.html",
+      "templates/index.js"
     ]
   },
   "_static-CRB4TPUT.js": {
@@ -584,8 +687,8 @@
     "file": "assets/toolcool-range-slider.min-BO3Tl_nj.js",
     "name": "toolcool-range-slider.min"
   },
-  "_transition-oFT0h_IZ.js": {
-    "file": "assets/transition-oFT0h_IZ.js",
+  "_transition-CfAOu4nX.js": {
+    "file": "assets/transition-CfAOu4nX.js",
     "name": "transition",
     "imports": [
       "index.html"
@@ -599,15 +702,12 @@
       "_directive-CwRn8Fwj.js"
     ]
   },
-  "_utils-CHGQ4ScM.js": {
-    "file": "assets/utils-CHGQ4ScM.js",
-    "name": "utils",
-    "imports": [
-      "_index-CxojoGlr.js"
-    ]
+  "_utils-CSwSEuV8.js": {
+    "file": "assets/utils-CSwSEuV8.js",
+    "name": "utils"
   },
-  "_vis-timeline-graph2d--ADHnH6r.js": {
-    "file": "assets/vis-timeline-graph2d--ADHnH6r.js",
+  "_vis-timeline-graph2d-Bs5Kphhx.js": {
+    "file": "assets/vis-timeline-graph2d-Bs5Kphhx.js",
     "name": "vis-timeline-graph2d",
     "imports": [
       "templates/index.js"
@@ -618,22 +718,22 @@
     "name": "when"
   },
   "core/client/components/DashboardLayout.vue": {
-    "file": "assets/DashboardLayout-MrAGhVEO.js",
+    "file": "assets/DashboardLayout-Dfj-quib.js",
     "name": "DashboardLayout",
     "src": "core/client/components/DashboardLayout.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_VMain-CITgadl1.js",
+      "_VMain-coM4Jf22.js",
       "templates/index.js",
-      "_ssrBoot-BKVYtVfM.js"
+      "_ssrBoot-MnO2kaUK.js"
     ],
     "css": [
       "assets/DashboardLayout-Cf0n4_iI.css"
     ]
   },
   "core/client/components/DynamicWebComponent.vue": {
-    "file": "assets/DynamicWebComponent-B893mOx5.js",
+    "file": "assets/DynamicWebComponent--sEU2Sp7.js",
     "name": "DynamicWebComponent",
     "src": "core/client/components/DynamicWebComponent.vue",
     "isDynamicEntry": true,
@@ -643,7 +743,7 @@
     ]
   },
   "core/client/components/Footer.vue": {
-    "file": "assets/Footer-Cb-bftaf.js",
+    "file": "assets/Footer-BrvUPFRw.js",
     "name": "Footer",
     "src": "core/client/components/Footer.vue",
     "isDynamicEntry": true,
@@ -656,23 +756,23 @@
     ]
   },
   "core/client/components/Header.vue": {
-    "file": "assets/Header-CwwGOy8L.js",
+    "file": "assets/Header-wiw7GNWl.js",
     "name": "Header",
     "src": "core/client/components/Header.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "templates/index.js",
-      "_VImg-FCFCNkwM.js",
-      "_ssrBoot-BKVYtVfM.js",
-      "_transition-oFT0h_IZ.js"
+      "_VImg-D-a4NvX3.js",
+      "_ssrBoot-MnO2kaUK.js",
+      "_transition-CfAOu4nX.js"
     ],
     "css": [
       "assets/Header-z4TgCqGz.css"
     ]
   },
   "core/client/components/IframeWrapper.vue": {
-    "file": "assets/IframeWrapper-McOPDDce.js",
+    "file": "assets/IframeWrapper-CjTno5iU.js",
     "name": "IframeWrapper",
     "src": "core/client/components/IframeWrapper.vue",
     "isDynamicEntry": true,
@@ -682,18 +782,18 @@
     ]
   },
   "core/client/components/MobileLayout.vue": {
-    "file": "assets/MobileLayout-WiptvqAI.js",
+    "file": "assets/MobileLayout-UjTgvErr.js",
     "name": "MobileLayout",
     "src": "core/client/components/MobileLayout.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_VMain-CITgadl1.js",
+      "_VMain-coM4Jf22.js",
       "templates/index.js",
-      "_ssrBoot-BKVYtVfM.js"
+      "_ssrBoot-MnO2kaUK.js"
     ],
     "css": [
-      "assets/MobileLayout-_yhcKWnj.css"
+      "assets/MobileLayout-BW3Qbeyp.css"
     ],
     "assets": [
       "assets/material-symbols-outlined-BZinq3R6.woff2",
@@ -703,7 +803,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/main-UZXc7UiN.js",
+    "file": "assets/main-CJJy3JI9.js",
     "name": "main",
     "src": "index.html",
     "isEntry": true,
@@ -718,9 +818,9 @@
       "widgets/EodashItemFilter.vue",
       "widgets/EodashLayerControl.vue",
       "widgets/EodashLayoutSwitcher.vue",
-      "_EodashMapBtns-CzngIPkq.js",
-      "_index-cJM4A-q3.js",
-      "_ProcessList-CCJj0xM_.js",
+      "_EodashMapBtns-DApNg7JF.js",
+      "_index-VVTUG32g.js",
+      "_ProcessList-Cg43PbJL.js",
       "widgets/EodashProcess/index.vue",
       "widgets/EodashStacInfo.vue",
       "widgets/EodashTimeSlider.vue",
@@ -736,60 +836,75 @@
       "core/client/components/Footer.vue"
     ],
     "css": [
-      "assets/main-Cfte03og.css"
+      "assets/main-BCyE6T5b.css"
     ]
   },
+  "node_modules/@eox/ui/dist/material-symbols-outlined.woff2": {
+    "file": "assets/material-symbols-outlined-BZinq3R6.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-outlined.woff2"
+  },
+  "node_modules/@eox/ui/dist/material-symbols-rounded.woff2": {
+    "file": "assets/material-symbols-rounded-DVluyMkh.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-rounded.woff2"
+  },
+  "node_modules/@eox/ui/dist/material-symbols-sharp.woff2": {
+    "file": "assets/material-symbols-sharp-DQLBrjHA.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-sharp.woff2"
+  },
+  "node_modules/@eox/ui/dist/material-symbols-subset.woff2": {
+    "file": "assets/material-symbols-subset-BaAQ-FMD.woff2",
+    "src": "../../@eox/elements-utils/node_modules/@eox/ui/dist/material-symbols-subset.woff2"
+  },
   "templates/index.js": {
-    "file": "assets/templates-DpRAJmv9.js",
+    "file": "assets/templates-BBKD2u9z.js",
     "name": "templates",
     "src": "templates/index.js",
     "isEntry": true
   },
   "widgets/EodashChart.vue": {
-    "file": "assets/EodashChart-CLF5c83-.js",
+    "file": "assets/EodashChart-CQkIFn4l.js",
     "name": "EodashChart",
     "src": "widgets/EodashChart.vue",
     "isDynamicEntry": true,
     "imports": [
       "_main-BOVsXhwx.js",
-      "_handling-BEECaWfH.js",
+      "_handling-D5AIuZ1f.js",
       "templates/index.js",
       "index.html",
-      "_index-9SevyhCJ.js",
+      "_index-DAvaNJ6K.js",
       "_addCommonStyleSheet-Yq-7s86-.js",
       "_style-DKU08UVs.js",
       "_sequential-w-Nnb9-P.js",
       "_orient2d-DArCjZZA.js",
-      "_async-CJ_oXMUF.js",
-      "_utils-CHGQ4ScM.js",
-      "_index-CxojoGlr.js",
-      "_VTooltip-DZgtVAui.js",
-      "_forwardRefs-CVzOdsRx.js",
-      "_transition-oFT0h_IZ.js"
+      "_async-C6iPH2he.js",
+      "_utils-CSwSEuV8.js",
+      "_VTooltip-BP57GUHe.js",
+      "_forwardRefs-n5rn9kkw.js",
+      "_transition-CfAOu4nX.js"
     ],
     "css": [
       "assets/EodashChart-2u3eDUAj.css"
     ]
   },
   "widgets/EodashDatePicker.vue": {
-    "file": "assets/EodashDatePicker-eH_yVe3W.js",
+    "file": "assets/EodashDatePicker-CvkDDnTx.js",
     "name": "EodashDatePicker",
     "src": "widgets/EodashDatePicker.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "templates/index.js",
-      "_index-9SevyhCJ.js",
-      "_VTooltip-DZgtVAui.js",
-      "_forwardRefs-CVzOdsRx.js",
-      "_transition-oFT0h_IZ.js"
+      "_index-DAvaNJ6K.js",
+      "_VTooltip-BP57GUHe.js",
+      "_forwardRefs-n5rn9kkw.js",
+      "_transition-CfAOu4nX.js"
     ],
     "css": [
       "assets/EodashDatePicker-C6f2GF05.css"
     ]
   },
   "widgets/EodashItemCatalog/index.vue": {
-    "file": "assets/index-B0IpxjzV.js",
+    "file": "assets/index-NtrhqWoq.js",
     "name": "index",
     "src": "widgets/EodashItemCatalog/index.vue",
     "isDynamicEntry": true,
@@ -798,9 +913,9 @@
       "templates/index.js",
       "_easing-vFiYzKl6.js",
       "widgets/EodashLayoutSwitcher.vue",
-      "_VTooltip-DZgtVAui.js",
-      "_forwardRefs-CVzOdsRx.js",
-      "_transition-oFT0h_IZ.js"
+      "_VTooltip-BP57GUHe.js",
+      "_forwardRefs-n5rn9kkw.js",
+      "_transition-CfAOu4nX.js"
     ],
     "dynamicImports": [
       "../../@eox/itemfilter/src/main.js"
@@ -810,7 +925,7 @@
     ]
   },
   "widgets/EodashItemFilter.vue": {
-    "file": "assets/EodashItemFilter-C5H1oAWL.js",
+    "file": "assets/EodashItemFilter-DNohF82R.js",
     "name": "EodashItemFilter",
     "src": "widgets/EodashItemFilter.vue",
     "isDynamicEntry": true,
@@ -826,7 +941,7 @@
     ]
   },
   "widgets/EodashLayerControl.vue": {
-    "file": "assets/EodashLayerControl-BZ2N7fUG.js",
+    "file": "assets/EodashLayerControl-DWoOnDqF.js",
     "name": "EodashLayerControl",
     "src": "widgets/EodashLayerControl.vue",
     "isDynamicEntry": true,
@@ -835,15 +950,14 @@
       "_addCommonStyleSheet-Yq-7s86-.js",
       "_sequential-w-Nnb9-P.js",
       "_directive-CwRn8Fwj.js",
-      "_style-DKU08UVs.js",
-      "_dayjs.min-ang4_BnA.js",
-      "_vis-timeline-graph2d--ADHnH6r.js",
+      "_dayjs.min-Cg8cDliW.js",
+      "_vis-timeline-graph2d-Bs5Kphhx.js",
       "_when-CI7b_ccM.js",
       "templates/index.js",
       "_map-Bv-shLAs.js",
       "_toolcool-range-slider.min-BO3Tl_nj.js",
       "_getElement-CdRlZPdn.js",
-      "_index-DJgBxPHe.js",
+      "_index-DTQ4VNEA.js",
       "_editor-CCHS57uz.js"
     ],
     "dynamicImports": [
@@ -852,23 +966,29 @@
     ],
     "css": [
       "assets/EodashLayerControl-B5R00ipi.css"
+    ],
+    "assets": [
+      "assets/material-symbols-outlined-BZinq3R6.woff2",
+      "assets/material-symbols-rounded-DVluyMkh.woff2",
+      "assets/material-symbols-sharp-DQLBrjHA.woff2",
+      "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
   "widgets/EodashLayoutSwitcher.vue": {
-    "file": "assets/EodashLayoutSwitcher-DC2MLvRI.js",
+    "file": "assets/EodashLayoutSwitcher-Qq0cccyo.js",
     "name": "EodashLayoutSwitcher",
     "src": "widgets/EodashLayoutSwitcher.vue",
     "isDynamicEntry": true,
     "imports": [
       "templates/index.js",
       "index.html",
-      "_VTooltip-DZgtVAui.js",
-      "_forwardRefs-CVzOdsRx.js",
-      "_transition-oFT0h_IZ.js"
+      "_VTooltip-BP57GUHe.js",
+      "_forwardRefs-n5rn9kkw.js",
+      "_transition-CfAOu4nX.js"
     ]
   },
   "widgets/EodashProcess/index.vue": {
-    "file": "assets/index-BzKC4Pux.js",
+    "file": "assets/index-CYDTCZu3.js",
     "name": "index",
     "src": "widgets/EodashProcess/index.vue",
     "isDynamicEntry": true,
@@ -880,33 +1000,32 @@
       "_when-CI7b_ccM.js",
       "_style-DKU08UVs.js",
       "_getElement-CdRlZPdn.js",
-      "_WKT-DswoXuO-.js",
+      "_WKT-DVs97ZYK.js",
       "../../@eox/jsonform/src/main.js",
       "index.html",
-      "_ProcessList-CCJj0xM_.js",
+      "_ProcessList-Cg43PbJL.js",
       "widgets/EodashChart.vue",
-      "_handling-BEECaWfH.js",
-      "_async-CJ_oXMUF.js",
+      "_handling-D5AIuZ1f.js",
+      "_async-C6iPH2he.js",
       "templates/index.js",
       "_sequential-w-Nnb9-P.js",
       "_orient2d-DArCjZZA.js",
       "_extent-CNYecLM1.js",
       "_editor-CCHS57uz.js",
       "_toolcool-range-slider.min-BO3Tl_nj.js",
-      "_utils-CHGQ4ScM.js",
-      "_index-CxojoGlr.js",
-      "_index-DJgBxPHe.js",
-      "_index-9SevyhCJ.js",
-      "_VTooltip-DZgtVAui.js",
-      "_forwardRefs-CVzOdsRx.js",
-      "_transition-oFT0h_IZ.js"
+      "_utils-CSwSEuV8.js",
+      "_index-DTQ4VNEA.js",
+      "_index-DAvaNJ6K.js",
+      "_VTooltip-BP57GUHe.js",
+      "_forwardRefs-n5rn9kkw.js",
+      "_transition-CfAOu4nX.js"
     ],
     "css": [
       "assets/index-asuzl00V.css"
     ]
   },
   "widgets/EodashStacInfo.vue": {
-    "file": "assets/EodashStacInfo-BnXFNG-F.js",
+    "file": "assets/EodashStacInfo-BTo0a9Ni.js",
     "name": "EodashStacInfo",
     "src": "widgets/EodashStacInfo.vue",
     "isDynamicEntry": true,
@@ -914,16 +1033,21 @@
       "_addCommonStyleSheet-Yq-7s86-.js",
       "_when-CI7b_ccM.js",
       "templates/index.js",
-      "_style-DKU08UVs.js",
       "_unsafe-html-9XwyaUtW.js",
       "_map-Bv-shLAs.js",
       "_static-CRB4TPUT.js",
       "index.html",
       "_directive-CwRn8Fwj.js"
+    ],
+    "assets": [
+      "assets/material-symbols-outlined-BZinq3R6.woff2",
+      "assets/material-symbols-rounded-DVluyMkh.woff2",
+      "assets/material-symbols-sharp-DQLBrjHA.woff2",
+      "assets/material-symbols-subset-BaAQ-FMD.woff2"
     ]
   },
   "widgets/EodashTimeSlider.vue": {
-    "file": "assets/EodashTimeSlider-DUAMbzmp.js",
+    "file": "assets/EodashTimeSlider-C66KEYog.js",
     "name": "EodashTimeSlider",
     "src": "widgets/EodashTimeSlider.vue",
     "isDynamicEntry": true,
@@ -931,13 +1055,13 @@
       "templates/index.js",
       "index.html",
       "_addCommonStyleSheet-Yq-7s86-.js",
-      "_vis-timeline-graph2d--ADHnH6r.js",
-      "_dayjs.min-ang4_BnA.js",
+      "_vis-timeline-graph2d-Bs5Kphhx.js",
+      "_dayjs.min-Cg8cDliW.js",
       "_when-CI7b_ccM.js",
       "_map-Bv-shLAs.js",
       "_Group-CyO5KGid.js",
       "_getElement-CdRlZPdn.js",
-      "_index-DJgBxPHe.js",
+      "_index-DTQ4VNEA.js",
       "_extent-CNYecLM1.js"
     ],
     "assets": [
@@ -948,7 +1072,7 @@
     ]
   },
   "widgets/EodashTools.vue": {
-    "file": "assets/EodashTools-C88XRLmU.js",
+    "file": "assets/EodashTools-B4cm99au.js",
     "name": "EodashTools",
     "src": "widgets/EodashTools.vue",
     "isDynamicEntry": true,
@@ -958,16 +1082,16 @@
       "widgets/EodashLayoutSwitcher.vue",
       "index.html",
       "templates/index.js",
-      "_forwardRefs-CVzOdsRx.js",
-      "_transition-oFT0h_IZ.js",
-      "_VTooltip-DZgtVAui.js"
+      "_forwardRefs-n5rn9kkw.js",
+      "_transition-CfAOu4nX.js",
+      "_VTooltip-BP57GUHe.js"
     ],
     "css": [
       "assets/EodashTools-CTo7yR2p.css"
     ]
   },
   "widgets/ExportState.vue": {
-    "file": "assets/ExportState-83O5xBIr.js",
+    "file": "assets/ExportState-Cp_wzACE.js",
     "name": "ExportState",
     "src": "widgets/ExportState.vue",
     "isDynamicEntry": true,
@@ -976,35 +1100,35 @@
       "widgets/PopUp.vue",
       "templates/index.js",
       "_main-BOVsXhwx.js",
-      "_VImg-FCFCNkwM.js",
-      "_forwardRefs-CVzOdsRx.js",
-      "_transition-oFT0h_IZ.js",
+      "_VImg-D-a4NvX3.js",
+      "_forwardRefs-n5rn9kkw.js",
+      "_transition-CfAOu4nX.js",
       "_addCommonStyleSheet-Yq-7s86-.js",
       "_style-DKU08UVs.js",
       "_sequential-w-Nnb9-P.js",
       "_orient2d-DArCjZZA.js"
     ],
     "css": [
-      "assets/ExportState--XysDu5e.css"
+      "assets/ExportState-6_JDgbKS.css"
     ]
   },
   "widgets/PopUp.vue": {
-    "file": "assets/PopUp-CcGRVx3r.js",
+    "file": "assets/PopUp-CY8i4RQN.js",
     "name": "PopUp",
     "src": "widgets/PopUp.vue",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_forwardRefs-CVzOdsRx.js",
+      "_forwardRefs-n5rn9kkw.js",
       "templates/index.js",
-      "_transition-oFT0h_IZ.js"
+      "_transition-CfAOu4nX.js"
     ],
     "css": [
-      "assets/PopUp-3u16SiwS.css"
+      "assets/PopUp-Cyer-bES.css"
     ]
   },
   "widgets/WidgetsContainer.vue": {
-    "file": "assets/WidgetsContainer-7WwyMAGi.js",
+    "file": "assets/WidgetsContainer-CQV3H2oR.js",
     "name": "WidgetsContainer",
     "src": "widgets/WidgetsContainer.vue",
     "isDynamicEntry": true,
