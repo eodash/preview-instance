@@ -1,0 +1,1 @@
+import{o as t}from"./main-DqshxVGm.js";import{r as s,s as e,t as n}from"./templates-BBKD2u9z.js";function u(){const o=e(!1);return t(()=>{window.requestAnimationFrame(()=>{o.value=!0})}),{ssrBootStyles:n(()=>o.value?void 0:{transition:"none !important"}),isBooted:s(o)}}export{u};
