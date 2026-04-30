@@ -76,7 +76,6 @@ export const createEoDashElement = (stacEndpoint) => {
   //@ts-expect-error needs to be updated in eodash
   eoDash.config = () =>
     getBaseConfig({
-      //@ts-expect-error todo
       stacEndpoint,
     });
 
