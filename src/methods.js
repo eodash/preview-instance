@@ -4,7 +4,7 @@ export function assignStacEndpoint() {
   const urlParams = new URLSearchParams(window.location.search);
   const stacEndpoint = urlParams.get("stacEndpoint");
 
-  if (stacEndpoint && stacEndpoint.endsWith("catalog.json")) {
+  if (stacEndpoint) {
     console.log(
       "[eodash-preview-instance] assigned stacEndpoint:",
       stacEndpoint,
@@ -110,7 +110,11 @@ export const handleFormSubmit = (inIframe) => {
  * @returns
  */
 export const hideInputForm = (inIframe) => {
-  if (!inIframe) {
+  const hasStacEndpoint = new URLSearchParams(window.location.search).has(
+    "stacEndpoint",
+  );
+
+  if (!inIframe && !hasStacEndpoint) {
     return;
   }
   const formEl = document.querySelector("form");

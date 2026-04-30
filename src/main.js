@@ -21,7 +21,7 @@ app.innerHTML = /* html */ `
   <nav>
     <div class="field border round input-container">
       <input id="stac-endpoint" value="${stacEndpoint}" type="text">
-      <span class="helper">Please Enter your STAC endpoint</span>
+      <span class="helper">Please Enter your STAC API or STAC Catalog URL</span>
     </div>
   <button>Load</button>
   </nav>
