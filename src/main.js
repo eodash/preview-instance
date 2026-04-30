@@ -15,7 +15,7 @@ if (!app) {
 }
 const stacEndpoint =
   assignStacEndpoint() ||
-  "https://esa-eodashboards.github.io/RACE-catalog/RACE/catalog.json";
+  "https://eoxhub-workspaces.github.io/eoxhub-test-catalog/catalog/catalog.json";
 app.innerHTML = /* html */ `
 <form id="stac-endpoint-form">
   <nav>
