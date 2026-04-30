@@ -73,10 +73,14 @@ export const createEoDashElement = (stacEndpoint) => {
   if (!eoDash) {
     throw new Error("eo-dash element not found");
   }
+  const api = !(stacEndpoint.endsWith(".json"));
   //@ts-expect-error needs to be updated in eodash
   eoDash.config = () =>
     getBaseConfig({
-      stacEndpoint,
+      stacEndpoint: {
+        endpoint: stacEndpoint,
+        api,
+      },
     });
 
   eodashContainer?.appendChild(eoDash);
