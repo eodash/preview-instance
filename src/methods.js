@@ -10,7 +10,7 @@ export function assignStacEndpoint() {
       stacEndpoint,
     );
 
-    return stacEndpoint + "?t=" + Date.now();
+    return stacEndpoint;
   }
 
   if (window.parent !== window) {
@@ -30,6 +30,26 @@ export function assignStacEndpoint() {
     */
   return "";
 }
+
+/**
+ * Appends a millisecond timestamp as a cache buster to a given URL.
+ * @param {string} url - The original URL string.
+ * @returns {string} The modified URL string with the 't' parameter.
+ */
+const addCacheBuster = (url) => {
+  try {
+    const urlObj = new URL(url);
+    
+    // .set() adds 't' if missing, or overwrites it if it already exists
+    urlObj.searchParams.set('t', Date.now().toString());
+    
+    return urlObj.toString();
+  } catch (error) {
+    console.error("Invalid URL provided to addCacheBuster", error);
+    return url;
+  }
+};
+
 
 export function setupIframeMessageListener() {
   if (window.parent == window) {
@@ -73,12 +93,13 @@ export const createEoDashElement = (stacEndpoint) => {
   if (!eoDash) {
     throw new Error("eo-dash element not found");
   }
-  const api = !(stacEndpoint.endsWith(".json"));
+  const api = !(stacEndpoint.includes(".json"));
+  const cacheBustedUrl = api ? stacEndpoint : addCacheBuster(stacEndpoint);
   //@ts-expect-error needs to be updated in eodash
   eoDash.config = () =>
     getBaseConfig({
       stacEndpoint: {
-        endpoint: stacEndpoint,
+        endpoint: cacheBustedUrl,
         api,
       },
     });
