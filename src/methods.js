@@ -1,4 +1,4 @@
-import { getBaseConfig } from "@eodash/eodash/templates";
+import { getBaseConfig, expert, } from "@eodash/eodash/templates";
 
 export function assignStacEndpoint() {
   const urlParams = new URLSearchParams(window.location.search);
@@ -101,6 +101,9 @@ export const createEoDashElement = (stacEndpoint) => {
       stacEndpoint: {
         endpoint: cacheBustedUrl,
         api,
+      },
+      templates: {
+        "1": expert,
       },
     });
 
