@@ -1,0 +1,1 @@
+import{o as t,g9 as e,au as s,an as n}from"./index-DAubJ0S3.js";function i(){const o=s(!1);return t(()=>{window.requestAnimationFrame(()=>{o.value=!0})}),{ssrBootStyles:n(()=>o.value?void 0:{transition:"none !important"}),isBooted:e(o)}}export{i as u};
