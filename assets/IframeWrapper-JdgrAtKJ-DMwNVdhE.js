@@ -1,0 +1,1 @@
+import{c as e,g as t}from"./index-DzSNfyRU.js";var a=["src"],i={__name:"IframeWrapper",props:{src:{type:String,required:!0}},setup(r){return(c,s)=>(e(),t("iframe",{src:r.src,class:"fill-height fill-width"},null,8,a))}};export{i as default};
