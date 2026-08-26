@@ -16,7 +16,7 @@
     "vite": "^7.1.2"
   },
   "dependencies": {
-    "@eodash/eodash": "^5.8.0",
+    "@eodash/eodash": "https://pkg.pr.new/@eodash/eodash@1ee4e25",
     "@eox/ui": "^1.1.0",
     "live-server": "^1.2.2"
   }
