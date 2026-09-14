@@ -1,4 +1,4 @@
-import { getBaseConfig, expert, } from "@eodash/eodash/templates";
+import { getBaseConfig, expert } from "@eodash/eodash/templates";
 
 export function assignStacEndpoint() {
   const urlParams = new URLSearchParams(window.location.search);
@@ -39,17 +39,16 @@ export function assignStacEndpoint() {
 const addCacheBuster = (url) => {
   try {
     const urlObj = new URL(url);
-    
+
     // .set() adds 't' if missing, or overwrites it if it already exists
-    urlObj.searchParams.set('t', Date.now().toString());
-    
+    urlObj.searchParams.set("t", Date.now().toString());
+
     return urlObj.toString();
   } catch (error) {
     console.error("Invalid URL provided to addCacheBuster", error);
     return url;
   }
 };
-
 
 export function setupIframeMessageListener() {
   if (window.parent == window) {
@@ -93,19 +92,22 @@ export const createEoDashElement = (stacEndpoint) => {
   if (!eoDash) {
     throw new Error("eo-dash element not found");
   }
-  const api = !(stacEndpoint.includes(".json"));
+  const api = !stacEndpoint.includes(".json");
   const cacheBustedUrl = api ? stacEndpoint : addCacheBuster(stacEndpoint);
   //@ts-expect-error needs to be updated in eodash
-  eoDash.config = () =>
-    getBaseConfig({
+  eoDash.config = () => {
+    const config = getBaseConfig({
       stacEndpoint: {
         endpoint: cacheBustedUrl,
         api,
       },
-      templates: {
-        "1": expert,
-      },
     });
+
+    if ("templates" in config) {
+      config.templates = { expert };
+    }
+    return config;
+  };
 
   eodashContainer?.appendChild(eoDash);
 };
