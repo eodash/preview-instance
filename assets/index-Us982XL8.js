@@ -1,0 +1,1 @@
+import{hr as s,hs as t,ht as c,hu as n}from"./index-DrL8z8X7.js";const h=({EOxMap:e,target:o})=>{const a=s(navigator.hardwareConcurrency||4,e,o),r=t({EOxMap:e,target:o,mapPool:a});return e.globe=r,c(e.map.getLayers().getArray(),r,a),r};window.eoxMapGlobe={create:h,refresh:n};export{h as create};
