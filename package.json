@@ -17,10 +17,10 @@
     "live-server": "^1.2.2"
   },
   "dependencies": {
-    "@eodash/eodash": "https://pkg.pr.new/@eodash/eodash@ed97ffa",
+    "@eodash/eodash": "5.10.0",
     "@eox/ui": "^1.1.0"
   },
   "overrides": {
-    "vanilla-calendar-pro": "3.1.0"
+    "@eodash/stac": "0.2.0"
   }
 }
