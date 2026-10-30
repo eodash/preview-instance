@@ -1,0 +1,1 @@
+import{o as t,b8 as e,N as s,X as n}from"./index-BvwgT-QJ.js";function r(){const o=n(!1);return t(()=>{window.requestAnimationFrame(()=>{o.value=!0})}),{ssrBootStyles:s(()=>o.value?void 0:{transition:"none !important"}),isBooted:e(o)}}export{r as u};
